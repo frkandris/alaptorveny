@@ -75,7 +75,7 @@ Magyarország az egységes magyar nemzet összetartozását szem előtt tartva f
 
 (1) Születésével a magyar állampolgár gyermeke magyar állampolgár. Sarkalatos törvény a magyar állampolgárság keletkezésének vagy megszerzésének más eseteit is meghatározhatja.  
 (2) Magyarország védelmezi állampolgárait.  
-(3) Senkit nem lehet születéssel keletkezett vagy jogszerűen szerzett magyar állampolgárságától megfosztani.  
+(3) Senkit nem lehet születéssel keletkezett vagy jogszerűen szerzett magyar állampolgárságától megfosztani. A más állam állampolgárságával is rendelkező magyar állampolgár állampolgársága sarkalatos törvényben meghatározottak szerint határozott időre felfüggeszthető. A felfüggesztéssel érintett személy a felfüggesztés idejére elveszíti a magyar állampolgárságát. Tilos a csoportos felfüggesztés.  
 (4) Az állampolgárságra vonatkozó részletes szabályokat sarkalatos törvény határozza meg.  
 
 > *H) cikk*  
@@ -109,7 +109,7 @@ Magyarország hivatalos pénzneme a forint.
 
 > *L) cikk*  
 
-(1) Magyarország védi a házasság intézményét mint egy férfi és egy nő között, önkéntes elhatározás alapján létrejött életközösséget, valamint a családot mint a nemzet fennmaradásának alapját. A családi kapcsolat alapja a házasság, illetve a szülő-gyermek viszony. Az anya nő, az apa férfi.  
+(1) Magyarország védi a házasság intézményét mint egy férfi és egy nő között, önkéntes elhatározás alapján létrejött életközösséget, valamint a családot mint a nemzet fennmaradásának alapját. A családi kapcsolat alapja a házasság, illetve a szülő-gyermek viszony. Az ember férfi vagy nő. Az anya nő, az apa férfi.  
 (2) Magyarország támogatja a gyermekvállalást.  
 (3) A családok védelmét sarkalatos törvény szabályozza.  
 
@@ -265,7 +265,7 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 > *XIII. cikk*  
 
-(1) Mindenkinek joga van a tulajdonhoz és az örökléshez. A tulajdon társadalmi felelősséggel jár.  
+(1) Mindenkinek joga van a tulajdonhoz és az örökléshez, valamint a készpénzzel történő fizetéshez. A tulajdon társadalmi felelősséggel jár.  
 (2) Tulajdont kisajátítani csak kivételesen és közérdekből, törvényben meghatározott esetekben és módon, teljes, feltétlen és azonnali kártalanítás mellett lehet.  
 
 > *XIV. cikk*  
@@ -282,11 +282,11 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 (2) Magyarország az alapvető jogokat mindenkinek bármely megkülönböztetés, nevezetesen faj, szín, nem, fogyatékosság, nyelv, vallás, politikai vagy más vélemény, nemzeti vagy társadalmi származás, vagyoni, születési vagy egyéb helyzet szerinti különbségtétel nélkül biztosítja.  
 (3) A nők és a férfiak egyenjogúak.  
 (4) Magyarország az esélyegyenlőség és a társadalmi felzárkózás megvalósulását külön intézkedésekkel segíti.  
-(5) Magyarország külön intézkedésekkel védi a családokat, a gyermekeket, a nőket, az időseket és a fogyatékkal élőket.  
+(5) Magyarország külön intézkedésekkel védi a családokat, a gyermekeket, a nőket, az időseket és a fogyatékossággal élőket.  
 
 > *XVI. cikk*  
 
-(1) Minden gyermeknek joga van a megfelelő testi, szellemi és erkölcsi fejlődéséhez szükséges védelemhez és gondoskodáshoz. Magyarország védi a gyermekek születési nemének megfelelő önazonossághoz való jogát, és biztosítja a hazánk alkotmányos önazonosságán és keresztény kultúráján alapuló értékrend szerinti nevelést.  
+(1) Minden gyermeknek joga van a megfelelő testi, szellemi és erkölcsi fejlődéséhez szükséges védelemhez és gondoskodáshoz. Ez a jog – az élethez való jog kivételével – minden más alapvető jogot megelőz. Magyarország védi a gyermekek születési nemének megfelelő önazonossághoz való jogát, és biztosítja a hazánk alkotmányos önazonosságán és keresztény kultúráján alapuló értékrend szerinti nevelést.  
 (2) A szülőknek joguk van megválasztani a gyermeküknek adandó nevelést.  
 (3) A szülők kötelesek kiskorú gyermekükről gondoskodni. E kötelezettség magában foglalja gyermekük taníttatását.  
 (4) A nagykorú gyermekek kötelesek rászoruló szüleikről gondoskodni.  
@@ -314,6 +314,7 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 (1) Mindenkinek joga van a testi és lelki egészséghez.  
 (2) Az (1) bekezdés szerinti jog érvényesülését Magyarország genetikailag módosított élőlényektől mentes mezőgazdasággal, az egészséges élelmiszerekhez és az ivóvízhez való hozzáférés biztosításával, a munkavédelem és az egészségügyi ellátás megszervezésével, a sportolás és a rendszeres testedzés támogatásával, valamint a környezet védelmének biztosításával segíti elő.  
+(3) Magyarországon a kábítószer előállítása, használata, terjesztése, népszerűsítése tilos.  
 
 > *XXI. cikk*  
 
@@ -354,7 +355,7 @@ Mindenkinek joga van ahhoz, hogy egyedül vagy másokkal együtt, írásban kér
 
 > *XXVII. cikk*  
 
-(1) Mindenkinek, aki törvényesen tartózkodik Magyarország területén, joga van a szabad mozgáshoz és tartózkodási helye szabad megválasztásához.  
+(1) Mindenkinek, aki törvényesen tartózkodik Magyarország területén, joga van a szabad mozgáshoz és tartózkodási helye szabad megválasztásához. A tartózkodási hely szabad megválasztásához való jog gyakorlása nem járhat Magyarország helyi közösségei önazonossághoz való alapvető jogának sérelmével.  
 (2) Minden magyar állampolgárnak joga van ahhoz, hogy külföldi tartózkodásának ideje alatt Magyarország védelmét élvezze.  
 
 > *XXVIII. cikk*  
@@ -521,7 +522,7 @@ Mindenkinek joga van ahhoz, hogy egyedül vagy másokkal együtt, írásban kér
 &nbsp;&nbsp;&nbsp;&nbsp;f) törvényben meghatározott kitüntetéseket, díjakat és címeket adományoz, valamint engedélyezi külföldi állami kitüntetések viselését;  
 &nbsp;&nbsp;&nbsp;&nbsp;g)  
 &nbsp;&nbsp;&nbsp;&nbsp;h) dönt a feladat- és hatáskörébe tartozó területszervezési kérdésekben;  
-&nbsp;&nbsp;&nbsp;&nbsp;i) dönt az állampolgárság megszerzésével és megszűnésével kapcsolatos ügyekben;  
+&nbsp;&nbsp;&nbsp;&nbsp;i) a felfüggesztés kivételével dönt az állampolgárság megszerzésével és megszűnésével kapcsolatos ügyekben;  
 &nbsp;&nbsp;&nbsp;&nbsp;j) dönt mindazokban az ügyekben, amelyeket törvény a hatáskörébe utal.  
 (5) A köztársasági elnöknek a (4) bekezdésben meghatározott minden intézkedéséhez és döntéséhez a Kormány tagjának ellenjegyzése szükséges. Törvény rendelkezhet úgy, hogy a törvény által a köztársasági elnök hatáskörébe utalt döntéshez ellenjegyzés nem szükséges.  
 (6) A köztársasági elnök a (4) bekezdés b)–e) pontjában foglaltak teljesítését megtagadja, ha a jogszabályi feltételek hiányoznak, vagy alapos okkal arra következtet, hogy az az államszervezet demokratikus működésének súlyos zavarát eredményezné.  
@@ -732,7 +733,7 @@ A bíróságok a jogalkalmazás során a jogszabályok szövegét elsősorban az
 &nbsp;&nbsp;&nbsp;&nbsp;b) képviseli a közvádat a bírósági eljárásban;  
 &nbsp;&nbsp;&nbsp;&nbsp;c) felügyeletet gyakorol a büntetés-végrehajtás törvényessége felett;  
 &nbsp;&nbsp;&nbsp;&nbsp;d) a közérdek védelmezőjeként az Alaptörvény vagy törvény által meghatározott további feladat- és hatásköröket gyakorol.  
-(3) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja, kinevezi az ügyészeket. A legfőbb ügyész kivételével az ügyész szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.  
+(3) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja, kinevezi az ügyészeket. A legfőbb ügyész kivételével az ügyész szolgálati jogviszonya az ügyész hetvenedik életévének betöltéséig állhat fenn.  
 (4) A legfőbb ügyészt a köztársasági elnök javaslatára az Országgyűlés választja kilenc évre. A legfőbb ügyész megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.  
 (5) A legfőbb ügyész évente beszámol tevékenységéről az Országgyűlésnek.  
 (6) Az ügyészek nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.  
@@ -959,7 +960,10 @@ esetén szükségállapotot hirdethet ki.
 
 > *53. cikk*
 
-(1) A Kormány különleges jogrendben rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
+(1) A Kormány különleges jogrendben rendeletet alkothat, amellyel sarkalatos törvényben meghatározottak szerinti rendkívüli intézkedéseket hozhat, valamint  
+&nbsp;&nbsp;&nbsp;&nbsp;a) hadiállapotban és szükségállapotban az Országgyűlés külön felhatalmazása nélkül,  
+&nbsp;&nbsp;&nbsp;&nbsp;b) veszélyhelyzetben az Országgyűlés – a jelen lévő országgyűlési képviselők kétharmadának szavazatával határozott időre megadott – felhatalmazásával  
+egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet.  
 (2) A Kormány a különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendeletről folyamatosan tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
 (3) Az Országgyűlés a Kormány által különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendeletet hatályon kívül helyezheti. A hatályon kívül helyezett rendeletet a Kormány azonos tartalommal nem alkothatja meg újra, kivéve ha azt a körülmények jelentős változása indokolja. A Kormány az így megalkotott rendeletről és megalkotásának indokairól haladéktalanul tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
 (4) A különleges jogrendet a különleges jogrend kihirdetésére jogosult szerv megszünteti, ha kihirdetésének feltételei már nem állnak fenn.
@@ -989,7 +993,7 @@ esetén szükségállapotot hirdethet ki.
 
 > *56. cikk*
 
-(1) A köztársasági elnök jogosult a háborús helyzet kinyilvánítására, a hadiállapot kihirdetésére, a szükségállapot kihirdetésére és meghosszabbítására, valamint arra, hogy felhatalmazza a Kormányt a veszélyhelyzet meghosszabbítására, ha az Országgyűlés e döntések meghozatalában akadályoztatva van.
+(1) A köztársasági elnök jogosult a háborús helyzet kinyilvánítására, a hadiállapot kihirdetésére, a szükségállapot kihirdetésére és meghosszabbítására, valamint arra, hogy felhatalmazza a Kormányt a veszélyhelyzet meghosszabbítására, illetve veszélyhelyzetben egyes törvények alkalmazásának felfüggesztésére, törvényi rendelkezésektől való eltérésre, ha az Országgyűlés e döntések meghozatalában akadályoztatva van.
 (2) Az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a miniszterelnök egybehangzóan állapítja meg az Országgyűlés akadályoztatása tényét, ha az Országgyűlés nem ülésezik, és összehívása az idő rövidsége, továbbá a különleges jogrendet kihirdetésére okot adó körülmény miatt elháríthatatlan akadályba ütközik.
 (3) Az Országgyűlés a köztársasági elnök (1) bekezdés szerinti döntésének indokoltságát az akadályoztatásának megszűnése utáni első ülésén felülvizsgálja, és az akadályoztatásának hiányában alkalmazandó szabályok szerint dönt a különleges jogrendben alkalmazott intézkedések jogszerűségéről.
 
