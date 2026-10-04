@@ -24,7 +24,8 @@ Valljuk az elesettek és a szegények megsegítésének kötelességét.
 Valljuk, hogy a polgárnak és az államnak közös célja a jó élet, a biztonság, a rend, az igazság, a szabadság kiteljesítése.  
 Valljuk, hogy népuralom csak ott van, ahol az állam szolgálja polgárait, ügyeiket méltányosan, visszaélés és részrehajlás nélkül intézi.  
 
-Tiszteletben tartjuk történeti alkotmányunk vívmányait és a Szent Koronát, amely megtestesíti Magyarország alkotmányos állami folytonosságát és a nemzet egységét. Valljuk, hogy a történeti alkotmányunkban gyökerező önazonosságunk védelmezése az állam alapvető kötelessége.
+Tiszteletben tartjuk történeti alkotmányunk vívmányait és a Szent Koronát, amely megtestesíti Magyarország alkotmányos állami folytonosságát és a nemzet egységét.  
+Valljuk, hogy a történeti alkotmányunkban gyökerező önazonosságunk védelmezése az állam alapvető kötelessége.
 Nem ismerjük el történeti alkotmányunk idegen megszállások miatt bekövetkezett felfüggesztését. Tagadjuk a magyar nemzet és polgárai ellen a nemzetiszocialista és a kommunista diktatúra uralma alatt elkövetett embertelen bűnök elévülését.  
 Nem ismerjük el az 1949. évi kommunista alkotmányt, mert egy zsarnoki uralom alapja volt, ezért kinyilvánítjuk érvénytelenségét.  
 Egyetértünk az első szabad Országgyűlés képviselőivel, akik első határozatukban kimondták, hogy mai szabadságunk az 1956-os forradalmunkból sarjadt ki.  
@@ -155,7 +156,7 @@ Mindenki felelős önmagáért, képességei és lehetőségei szerint köteles 
 
 > *T) cikk*  
 
-(1) Általánosan kötelező magatartási szabályt az Alaptörvény és az Alaptörvényben megjelölt, jogalkotó hatáskörrel rendelkező szerv által megalkotott, a hivatalos lapban kihirdetett jogszabály állapíthat meg. Sarkalatos törvény eltérően is megállapíthatja az önkormányzati rendelet kihirdetésének szabályait, valamint törvény eltérően is megállapíthatja a hadiállapot vagy a szükségállapot kihirdetésének Kormány általi kezdeményezését követően és a különleges jogrendben alkotott jogszabályok kihirdetésének szabályait.  
+(1) Általánosan kötelező magatartási szabályt az Alaptörvény és az Alaptörvényben megjelölt, jogalkotó hatáskörrel rendelkező szerv által megalkotott, a hivatalos lapban kihirdetett jogszabály állapíthat meg. Sarkalatos törvény eltérően is megállapíthatja az önkormányzati rendelet kihirdetésének szabályait, valamint törvény eltérően is megállapíthatja a hadiállapot vagy a szükségállapot kihirdetésének Kormány általi kezdeményezését követően és a különleges jogrendben alkotott jogszabály kihirdetésének szabályait.  
 (2) Jogszabály a törvény, a kormányrendelet, a miniszterelnöki rendelet, a miniszteri rendelet, a Magyar Nemzeti Bank elnökének rendelete, az önálló szabályozó szerv vezetőjének rendelete és az önkormányzati rendelet.  
 (3) Jogszabály nem lehet ellentétes az Alaptörvénnyel.  
 (4) A sarkalatos törvény olyan törvény, amelynek elfogadásához és módosításához a jelen lévő országgyűlési képviselők kétharmadának szavazata szükséges.  
@@ -451,7 +452,7 @@ Mindenkinek joga van ahhoz, hogy egyedül vagy másokkal együtt, írásban kér
 (4) Az országgyűlési képviselők tevékenységük összehangolására a házszabályi rendelkezésekben meghatározott feltételek szerint országgyűlési képviselőcsoportot alakíthatnak.  
 (5) Az Országgyűlés akkor határozatképes, ha az ülésen az országgyűlési képviselőknek több mint a fele jelen van.  
 (6) Ha az Alaptörvény eltérően nem rendelkezik, az Országgyűlés határozatait a jelen lévő országgyűlési képviselők több mint a felének szavazatával hozza meg. A házszabályi rendelkezések egyes döntések meghozatalát minősített többséghez köthetik.  
-(7) (7) Az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadott házszabályi rendelkezésekben állapítja meg működésének szabályait és tárgyalási rendjét. Az Országgyűlés zavartalan működésének biztosítása és méltóságának megőrzése érdekében az Országgyűlés elnöke a házszabályi rendelkezésekben meghatározott fegyelmi jogkört gyakorol.  
+(7) Az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadott házszabályi rendelkezésekben állapítja meg működésének szabályait és tárgyalási rendjét. Az Országgyűlés zavartalan működésének biztosítása és méltóságának megőrzése érdekében az Országgyűlés elnöke a házszabályi rendelkezésekben meghatározott fegyelmi jogkört gyakorol.  
 (8) Az Országgyűlés rendszeres ülésezését biztosító rendelkezéseket sarkalatos törvény határozza meg.  
 (9)  
 
@@ -488,7 +489,7 @@ Mindenkinek joga van ahhoz, hogy egyedül vagy másokkal együtt, írásban kér
 &nbsp;&nbsp;&nbsp;&nbsp;e) az Országgyűlés hatáskörébe tartozó személyi és szervezetalakítási kérdésről;  
 &nbsp;&nbsp;&nbsp;&nbsp;f) az Országgyűlés feloszlásáról;  
 &nbsp;&nbsp;&nbsp;&nbsp;g) képviselő-testület feloszlatásáról;  
-&nbsp;&nbsp;&nbsp;&nbsp;h) háborús helyzet kinyilvánításáról, békekötésről, hadiállapot kihirdetéséről és megszüntetéséről, valamint szükségállapot kihirdetéséről, meghosszabbításáról és megszüntetéséről;”  
+&nbsp;&nbsp;&nbsp;&nbsp;h) háborús helyzet kinyilvánításáról, békekötésről, hadiállapot kihirdetéséről és megszüntetéséről, valamint szükségállapot kihirdetéséről, meghosszabbításáról és megszüntetéséről;  
 &nbsp;&nbsp;&nbsp;&nbsp;i) katonai műveletekben való részvétellel kapcsolatos kérdésről;  
 &nbsp;&nbsp;&nbsp;&nbsp;j) közkegyelem gyakorlásáról.  
 (4) Az országos népszavazás érvényes, ha az összes választópolgár több mint fele érvényesen szavazott, és eredményes, ha az érvényesen szavazó választópolgárok több mint fele a megfogalmazott kérdésre azonos választ adott.  
@@ -736,6 +737,7 @@ kezdeményezheti.
 (1) A bíróság – ha törvény másképpen nem rendelkezik – tanácsban ítélkezik.  
 (2) Törvény által meghatározott ügyekben és módon nem hivatásos bírák is részt vesznek az ítélkezésben.  
 (3) Egyesbíróként és a tanács elnökeként csak hivatásos bíró járhat el. Törvény által meghatározott ügyekben, egyesbíró hatáskörében bírósági titkár is eljárhat, akire e tevékenysége során alkalmazni kell a 26. cikk (1) bekezdését.   
+(4)  
 
 > *28. cikk*  
 
@@ -796,7 +798,7 @@ A bíróságok a jogalkalmazás során a jogszabályok szövegét elsősorban az
 (2) Feladatkörében eljárva a helyi önkormányzat törvény által nem szabályozott helyi társadalmi viszonyok rendezésére, illetve törvényben kapott felhatalmazás alapján önkormányzati rendeletet alkot.  
 (3) Az önkormányzati rendelet más jogszabállyal nem lehet ellentétes.  
 (4) A helyi önkormányzat az önkormányzati rendeletet a kihirdetését követően haladéktalanul megküldi a fővárosi és megyei kormányhivatalnak. Ha a fővárosi és megyei kormányhivatal az önkormányzati rendeletet vagy annak valamely rendelkezését jogszabálysértőnek találja, kezdeményezheti a bíróságnál az önkormányzati rendelet felülvizsgálatát.  
-(5) A fővárosi és megyei kormányhivatal kezdeményezheti a bíróságnál a helyi önkormányzat törvényen alapuló rendeletalkotási vagy határozathozatali kötelezettsége elmulasztásának megállapítását. Ha a helyi önkormányzat a rendeletalkotási vagy határozathozatali kötelezettségének a bíróság által a mulasztást megállapító döntésben meghatározott időpontig nem tesz eleget, a bíróság a fővárosi és a megyei kormányhivatal kezdeményezésére elrendeli, hogy a mulasztás orvoslásához szükséges önkormányzati rendeletet vagy önkormányzati határozatot a helyi önkormányzat nevében a fővárosi és a megyei kormányhivatal vezetője alkossa meg.  
+(5) A fővárosi és megyei kormányhivatal kezdeményezheti a bíróságnál a helyi önkormányzat törvényen alapuló rendeletalkotási vagy határozathozatali kötelezettsége elmulasztásának megállapítását. Ha a helyi önkormányzat a rendeletalkotási vagy határozathozatali kötelezettségének a bíróság által a mulasztást megállapító döntésben meghatározott időpontig nem tesz eleget, a bíróság a fővárosi és megyei kormányhivatal kezdeményezésére elrendeli, hogy a mulasztás orvoslásához szükséges önkormányzati rendeletet vagy önkormányzati határozatot a helyi önkormányzat nevében a fővárosi és megyei kormányhivatal vezetője alkossa meg.  
 (6) A helyi önkormányzatok tulajdona köztulajdon, amely feladataik ellátását szolgálja.  
 
 > *33. cikk*  
@@ -807,7 +809,7 @@ A bíróságok a jogalkalmazás során a jogszabályok szövegét elsősorban az
 
 > *34. cikk*  
 
-(1) A helyi önkormányzat és az állami szervek a közösségi célok elérése érdekében együttműködnek. A helyi önkormányzat részére kötelező feladat- és hatáskört törvény állapíthat meg. A helyi önkormányzat kötelező feladat-és hatásköreinek ellátásához azokkal arányban álló költségvetési, illetve más vagyoni támogatásra jogosult.  
+(1) A helyi önkormányzat és az állami szervek a közösségi célok elérése érdekében együttműködnek. A helyi önkormányzat részére kötelező feladat- és hatáskört törvény állapíthat meg. A helyi önkormányzat kötelező feladat- és hatásköreinek ellátásához azokkal arányban álló költségvetési, illetve más vagyoni támogatásra jogosult.  
 (2) Törvény elrendelheti a helyi önkormányzat kötelező feladatának társulásban történő ellátását.  
 (3) Törvény vagy törvényi felhatalmazáson alapuló kormányrendelet a polgármester, a megyei képviselő-testület elnöke, valamint a képviselő-testület hivatalának vezetője vagy ügyintézője számára kivételesen államigazgatási feladat- és hatáskört is megállapíthat.  
 (4) A Kormány a fővárosi és megyei kormányhivatal útján biztosítja a helyi önkormányzatok törvényességi felügyeletét.  
@@ -936,7 +938,6 @@ A Magyar Honvédség katonai műveleteinek, állomásozásának és más, határ
 
 
 **A KÜLÖNLEGES JOGREND**  
-**A rendkívüli állapotra és a szükségállapotra vonatkozó közös szabályok**  
 
 > *48. cikk*  
 
@@ -972,7 +973,7 @@ esetén szükségállapotot hirdethet ki.
 
 > *51. cikk*
 
-(1) A Kormány szomszédos országban fennálló fegyveres konfliktus, háborús helyzet vagy humanitárius katasztrófa, továbbá az élet- és vagyonbiztonságot veszélyeztető súlyos esemény – különösen elemi csapás vagy ipari szerencsétlenség – esetén, valamint ezek következményeinek az elhárítása érdekében veszélyhelyzetet hirdethet ki, és sarkalatos törvényben meghatározott rendkívüli intézkedéseket vezethet be.
+(1) A Kormány szomszédos országban fennálló fegyveres konfliktus, háborús helyzet vagy humanitárius katasztrófa, továbbá az élet- és vagyonbiztonságot veszélyeztető súlyos esemény – különösen elemi csapás vagy ipari szerencsétlenség – esetén, valamint ezek következményeinek az elhárítása érdekében veszélyhelyzetet hirdethet ki.
 (2) A veszélyhelyzet harminc napra hirdethető ki.
 (3) A Kormány a veszélyhelyzetet az Országgyűlés felhatalmazása alapján meghosszabbíthatja, ha a veszélyhelyzet kihirdetésére okot adó körülmény továbbra is fennáll.
 (4) A (3) bekezdés szerinti felhatalmazásról az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával dönt.
@@ -995,7 +996,7 @@ esetén szükségállapotot hirdethet ki.
 &nbsp;&nbsp;&nbsp;&nbsp;b) veszélyhelyzetben az Országgyűlés – a jelen lévő országgyűlési képviselők kétharmadának szavazatával határozott időre megadott – felhatalmazásával  
 egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet.  
 (2) A Kormány a különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendeletről folyamatosan tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
-(3) Az Országgyűlés a Kormány által különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendeletet hatályon kívül helyezheti. A hatályon kívül helyezett rendeletet a Kormány azonos tartalommal nem alkothatja meg újra, kivéve ha azt a körülmények jelentős változása indokolja. A Kormány az így megalkotott rendeletről és megalkotásának indokairól haladéktalanul tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
+(3) Az Országgyűlés a Kormány által különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendeletet hatályon kívül helyezheti. A hatályon kívül helyezett rendeletet a Kormány azonos tartalommal nem alkothatja meg újra, kivéve, ha azt a körülmények jelentős változása indokolja. A Kormány az így megalkotott rendeletről és megalkotásának indokairól haladéktalanul tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
 (4) A különleges jogrendet a különleges jogrend kihirdetésére jogosult szerv megszünteti, ha kihirdetésének feltételei már nem állnak fenn.
 (5) A Kormány által különleges jogrend idején a különleges jogrendre vonatkozó szabályok szerint alkotott rendelet a különleges jogrend megszűnésekor hatályát veszti.
 
@@ -1007,9 +1008,9 @@ egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől
 (1) Hadiállapot vagy szükségállapot kihirdetésének Kormány általi kezdeményezését követően a Kormány rendeletet alkothat, amellyel – törvényben meghatározottak szerint – a kihirdetésre okot adó körülmény azonnali kezeléséhez szükséges mértékben egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
 (2) A Kormány az (1) bekezdés szerinti rendeletről folyamatosan tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
 (3) Az (1) bekezdés szerinti rendelet hatálya a hadiállapot vagy a szükségállapot kihirdetésére vonatkozó döntésig, de legfeljebb a kihirdetés Kormány általi kezdeményezésétől számított hatvan napig, hadiállapot vagy szükségállapot kihirdetése esetén legfeljebb a hadiállapot vagy a szükségállapot megszűnéséig tart.
-(4) Ha a hadiállapot vagy a szükségállapot kihirdetésére nem kerül sor, akkor az (1) bekezdés szerint rendeletben hozott intézkedések joghatásainak rendezését az Országgyűlés törvényben szabályozza.
+(4) Ha a hadiállapot vagy a szükségállapot kihirdetésére nem kerül sor, az Országgyűlés törvényt alkot az (1) bekezdés szerinti rendeletben hozott rendkívüli intézkedésekkel összefüggő szabályozási átmenetről.
 (5) A Kormány a hadiállapot vagy a szükségállapot kihirdetésének kezdeményezését követően köteles minden olyan intézkedést megtenni, amely az Országgyűlés folyamatos működését szavatolja.
-(6) Az Országgyűlés az (1) bekezdés szerinti rendeletet hatályon kívül helyezheti. A hatályon kívül helyezett rendeletet a Kormány azonos tartalommal nem alkothatja meg újra, kivéve ha azt a körülmények jelentős változása indokolja. A Kormány az így megalkotott rendeletről és megalkotásának indokairól haladéktalanul tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
+(6) Az Országgyűlés az (1) bekezdés szerinti rendeletet hatályon kívül helyezheti. A hatályon kívül helyezett rendeletet a Kormány azonos tartalommal nem alkothatja meg újra, kivéve, ha azt a körülmények jelentős változása indokolja. A Kormány az így megalkotott rendeletről és megalkotásának indokairól haladéktalanul tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
 (7) Hadiállapot vagy szükségállapot Kormány általi kezdeményezését követően az Alkotmánybíróság működése nem korlátozható. A Kormány a hadiállapot vagy a szükségállapot kihirdetésének kezdeményezését követően köteles minden olyan intézkedést megtenni, amely az Alkotmánybíróság folyamatos működését szavatolja.
 (8) A hadiállapot vagy a szükségállapot Kormány általi kezdeményezését követően alkalmazandó részletes szabályokat törvény határozza meg.
 
@@ -1023,9 +1024,9 @@ egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől
 
 > *56. cikk*
 
-(1) A köztársasági elnök jogosult a háborús helyzet kinyilvánítására, a hadiállapot kihirdetésére, a szükségállapot kihirdetésére és meghosszabbítására, valamint arra, hogy felhatalmazza a Kormányt a veszélyhelyzet meghosszabbítására, illetve veszélyhelyzetben egyes törvények alkalmazásának felfüggesztésére, törvényi rendelkezésektől való eltérésre, ha az Országgyűlés e döntések meghozatalában akadályoztatva van.
-(2) Az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a miniszterelnök egybehangzóan állapítja meg az Országgyűlés akadályoztatása tényét, ha az Országgyűlés nem ülésezik, és összehívása az idő rövidsége, továbbá a különleges jogrendet kihirdetésére okot adó körülmény miatt elháríthatatlan akadályba ütközik.
-(3) Az Országgyűlés a köztársasági elnök (1) bekezdés szerinti döntésének indokoltságát az akadályoztatásának megszűnése utáni első ülésén felülvizsgálja, és az akadályoztatásának hiányában alkalmazandó szabályok szerint dönt a különleges jogrendben alkalmazott intézkedések jogszerűségéről.
+(1) A köztársasági elnök jogosult a hadiállapot kihirdetésére, a szükségállapot kihirdetésére és meghosszabbítására, valamint arra, hogy felhatalmazza a Kormányt a veszélyhelyzet meghosszabbítására, illetve veszélyhelyzetben egyes törvények alkalmazásának felfüggesztésére, törvényi rendelkezésektől való eltérésre, ha az Országgyűlés e döntések meghozatalában akadályoztatva van.
+(2) Az Országgyűlés elnöke, az Alkotmánybíróság elnöke és a miniszterelnök egybehangzóan állapítja meg az Országgyűlés akadályoztatása tényét, ha az Országgyűlés nem ülésezik, és összehívása az idő rövidsége, továbbá a különleges jogrend kihirdetésére okot adó körülmény miatt elháríthatatlan akadályba ütközik.
+(3) Az Országgyűlés az akadályoztatásának megszűnése utáni első ülésén az akadályoztatásának hiányában alkalmazandó szabályok szerint dönt a köztársasági elnök (1) bekezdés szerinti döntésének indokoltságáról és jogszerűségéről, valamint felülvizsgálja a különleges jogrendben alkalmazott rendkívüli intézkedéseket.
 
 
 **ZÁRÓ ÉS VEGYES RENDELKEZÉSEK**  
