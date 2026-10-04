@@ -511,6 +511,7 @@ Mindenkinek joga van ahhoz, hogy egyedül vagy másokkal együtt, írásban kér
 &nbsp;&nbsp;&nbsp;&nbsp;k) kinevezi a hivatásos bírákat és a Költségvetési Tanács elnökét;  
 &nbsp;&nbsp;&nbsp;&nbsp;l) megerősíti tisztségében a Magyar Tudományos Akadémia elnökét és a Magyar Művészeti Akadémia elnökét;  
 &nbsp;&nbsp;&nbsp;&nbsp;m) kialakítja hivatala szervezetét.  
+&nbsp;&nbsp;&nbsp;&nbsp;n) gyakorolja az egyéni kegyelmezés jogát.  
 (4) A köztársasági elnök  
 &nbsp;&nbsp;&nbsp;&nbsp;a) az Országgyűlés felhatalmazása alapján elismeri a nemzetközi szerződés kötelező hatályát;  
 &nbsp;&nbsp;&nbsp;&nbsp;b) megbízza és fogadja a nagyköveteket és a követeket;  
@@ -518,13 +519,14 @@ Mindenkinek joga van ahhoz, hogy egyedül vagy másokkal együtt, írásban kér
 &nbsp;&nbsp;&nbsp;&nbsp;d) megbízza az egyetemek rektorait;  
 &nbsp;&nbsp;&nbsp;&nbsp;e) kinevezi és előlépteti a tábornokokat;  
 &nbsp;&nbsp;&nbsp;&nbsp;f) törvényben meghatározott kitüntetéseket, díjakat és címeket adományoz, valamint engedélyezi külföldi állami kitüntetések viselését;  
-&nbsp;&nbsp;&nbsp;&nbsp;g) gyakorolja az egyéni kegyelmezés jogát;  
+&nbsp;&nbsp;&nbsp;&nbsp;g)  
 &nbsp;&nbsp;&nbsp;&nbsp;h) dönt a feladat- és hatáskörébe tartozó területszervezési kérdésekben;  
 &nbsp;&nbsp;&nbsp;&nbsp;i) dönt az állampolgárság megszerzésével és megszűnésével kapcsolatos ügyekben;  
 &nbsp;&nbsp;&nbsp;&nbsp;j) dönt mindazokban az ügyekben, amelyeket törvény a hatáskörébe utal.  
 (5) A köztársasági elnöknek a (4) bekezdésben meghatározott minden intézkedéséhez és döntéséhez a Kormány tagjának ellenjegyzése szükséges. Törvény rendelkezhet úgy, hogy a törvény által a köztársasági elnök hatáskörébe utalt döntéshez ellenjegyzés nem szükséges.  
 (6) A köztársasági elnök a (4) bekezdés b)–e) pontjában foglaltak teljesítését megtagadja, ha a jogszabályi feltételek hiányoznak, vagy alapos okkal arra következtet, hogy az az államszervezet demokratikus működésének súlyos zavarát eredményezné.  
 (7) A köztársasági elnök a (4) bekezdés f) pontjában foglaltak teljesítését megtagadja, ha az az Alaptörvény értékrendjét sértené.  
+(8) Sarkalatos törvény határozza meg azon, a gyermek sérelmére elkövetett szándékos bűncselekmények körét, amelyek tekintetében a köztársasági elnök a (3) bekezdés n) pontjában foglalt egyéni kegyelmezési jogát nem gyakorolhatja.  
 
 > *10. cikk*  
 
@@ -821,6 +823,7 @@ A bíróságok a jogalkalmazás során a jogszabályok szövegét elsősorban az
 (4) Mindaddig, amíg az államadósság a teljes hazai össztermék felét meghaladja, az Alkotmánybíróság a 24. cikk (2) bekezdés b)–e) pontjában foglalt hatáskörében a központi költségvetésről, a központi költségvetés végrehajtásáról, a központi adónemekről, az illetékekről és járulékokról, a vámokról, valamint a helyi adók központi feltételeiről szóló törvények Alaptörvénnyel való összhangját kizárólag az élethez és az emberi méltósághoz való joggal, a személyes adatok védelméhez való joggal, a gondolat, a lelkiismeret és a vallás szabadságához való joggal vagy a magyar állampolgársághoz kapcsolódó jogokkal összefüggésben vizsgálhatja felül, és ezek sérelme miatt semmisítheti meg. Az Alkotmánybíróság az e tárgykörbe tartozó törvényeket is korlátozás nélkül jogosult megsemmisíteni, ha a törvény megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelmények nem teljesültek.  
 (5) A (4) bekezdést azon törvényi rendelkezések esetében, amelyek abban az időszakban léptek hatályba, amíg az államadósság a teljes hazai össztermék felét meghaladta, ezen időszak tekintetében akkor is alkalmazni kell, ha az államadósság a teljes hazai össztermék felét már nem haladja meg.  
 (6) Az államadósság és a teljes hazai össztermék számítási módját, valamint a 36. cikkben és az (1)–(3) bekezdésben foglaltak végrehajtására vonatkozó szabályokat törvény határozza meg.  
+(7) Magyarország az Európai Uniónak olyan hitelfelvételéhez és az ahhoz kapcsolódó garanciavállaláshoz, amely Magyarország által teljesítendő fizetési kötelezettséget keletkeztet, az Országgyűlésnek az országgyűlési képviselők kétharmadának szavazatával elfogadott egyedi határozatával adott felhatalmazása alapján, a Kormány egyedi döntése alapján járulhat hozzá.  
 
 > *38. cikk*  
 
@@ -898,10 +901,7 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 
 > *47. cikk*  
 
-(1) A Kormány dönt a Magyar Honvédség és a külföldi fegyveres erők határátlépéssel járó csapatmozgásairól.  
-(2) Az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával dönt – a (3) bekezdésben meghatározott esetek kivételével – a Magyar Honvédség külföldi vagy magyarországi alkalmazásáról, külföldi állomásozásáról, valamint a külföldi fegyveres erők magyarországi vagy Magyarország területéről kiinduló alkalmazásáról, magyarországi állomásozásáról.  
-(3) A Kormány dönt a Magyar Honvédség és a külföldi fegyveres erők (2) bekezdés szerinti, az Európai Unió, az Észak-atlanti Szerződés Szervezete vagy az Országgyűlés által törvényben megerősített nemzetközi védelmi és biztonsági együttműködési szervezet döntésén alapuló alkalmazásáról, valamint más csapatmozgásáról.  
-(4) A Kormány – a köztársasági elnök egyidejű tájékoztatása mellett – haladéktalanul beszámol az Országgyűlésnek a (3) bekezdés alapján, valamint a Magyar Honvédség békefenntartásban való részvételének vagy külföldi hadműveleti területen végzett humanitárius tevékenységének engedélyezése tárgyában hozott döntéséről.  
+A Magyar Honvédség katonai műveleteinek, állomásozásának és más, határátlépéssel járó csapatmozgásának, valamint a külföldi fegyveres erők Magyarország területét érintő katonai műveleteinek, állomásozásának és más, határátlépéssel járó csapatmozgásának engedélyezésével összefüggő alapvető szabályokat sarkalatos törvény határozza meg.  
 
 
 **A KÜLÖNLEGES JOGREND**  
