@@ -69,7 +69,7 @@ Magyarország az egységes magyar nemzet összetartozását szem előtt tartva f
 > *F) cikk*  
 
 (1) Magyarország fővárosa Budapest.  
-(2) Magyarország területe fővárosra, vármegyékre, városokra és községekre tagozódik. A fővárosban és a városokban kerületek alakíthatók.  
+(2) Magyarország területe fővárosra, megyékre, városokra és községekre tagozódik. A fővárosban és a városokban kerületek alakíthatók.  
 
 > *G) cikk*  
 
@@ -93,7 +93,7 @@ Magyarország az egységes magyar nemzet összetartozását szem előtt tartva f
 ![](zaszlo.png)
 
 (3) Magyarország himnusza Kölcsey Ferenc Himnusz című költeménye Erkel Ferenc zenéjével.  
-(4) A címer és a zászló a történelmileg kialakult más formák szerint is használható. A címer és a zászló használatának részletes szabályait, valamint az állami kitüntetéseket sarkalatos törvény határozza meg.  
+(4) A címer és a zászló a történelmileg kialakult más formák szerint is használható. A címer és a zászló használatának részletes szabályait, valamint az állami kitüntetéseket törvény határozza meg.  
 
 > *J) cikk*  
 
@@ -155,7 +155,7 @@ Mindenki felelős önmagáért, képességei és lehetőségei szerint köteles 
 
 > *T) cikk*  
 
-(1) Általánosan kötelező magatartási szabályt az Alaptörvény és az Alaptörvényben megjelölt, jogalkotó hatáskörrel rendelkező szerv által megalkotott, a hivatalos lapban kihirdetett jogszabály állapíthat meg. Sarkalatos törvény eltérően is megállapíthatja az önkormányzati rendelet, valamint a hadiállapot vagy a szükségállapot kihirdetésének Kormány általi kezdeményezését követően és a különleges jogrendben alkotott jogszabályok kihirdetésének szabályait.  
+(1) Általánosan kötelező magatartási szabályt az Alaptörvény és az Alaptörvényben megjelölt, jogalkotó hatáskörrel rendelkező szerv által megalkotott, a hivatalos lapban kihirdetett jogszabály állapíthat meg. Sarkalatos törvény eltérően is megállapíthatja az önkormányzati rendelet kihirdetésének szabályait, valamint törvény eltérően is megállapíthatja a hadiállapot vagy a szükségállapot kihirdetésének Kormány általi kezdeményezését követően és a különleges jogrendben alkotott jogszabályok kihirdetésének szabályait.  
 (2) Jogszabály a törvény, a kormányrendelet, a miniszterelnöki rendelet, a miniszteri rendelet, a Magyar Nemzeti Bank elnökének rendelete, az önálló szabályozó szerv vezetőjének rendelete és az önkormányzati rendelet.  
 (3) Jogszabály nem lehet ellentétes az Alaptörvénnyel.  
 (4) A sarkalatos törvény olyan törvény, amelynek elfogadásához és módosításához a jelen lévő országgyűlési képviselők kétharmadának szavazata szükséges.  
@@ -219,7 +219,7 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 (1) Mindenkinek joga van ahhoz, hogy magán- és családi életét, otthonát, kapcsolattartását és jó hírnevét tiszteletben tartsák. A véleménynyilvánítás szabadsága és a gyülekezési jog gyakorlása nem járhat mások magán- és családi életének, valamint otthonának sérelmével.  
 (2) Az állam jogi védelemben részesíti az otthon nyugalmát.
 (3) Mindenkinek joga van személyes adatai védelméhez, valamint a közérdekű adatok megismeréséhez és terjesztéséhez.
-(4) A személyes adatok védelméhez és a közérdekű adatok megismeréséhez való jog érvényesülését sarkalatos törvénnyel létrehozott, független hatóság ellenőrzi.  
+(4) A személyes adatok védelméhez és a közérdekű adatok megismeréséhez való jog érvényesülését törvénnyel létrehozott, független hatóság ellenőrzi.  
 
 > *VII. cikk*  
 
@@ -330,14 +330,16 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 > *XXIII. cikk*  
 
-(1) Minden nagykorú magyar állampolgárnak joga van ahhoz, hogy az országgyűlési képviselők, a helyi önkormányzati képviselők és polgármesterek, valamint az európai parlamenti képviselők választásán választó és választható legyen.  
-(2) Az Európai Unió más tagállamának magyarországi lakóhellyel rendelkező minden nagykorú állampolgárának joga van ahhoz, hogy a helyi önkormányzati képviselők és polgármesterek, valamint az európai parlamenti képviselők választásán választó és választható legyen.  
-(3) Magyarországon menekültként elismert vagy huzamos tartózkodási jogosultsággal rendelkező minden nagykorú személynek joga van ahhoz, hogy a helyi önkormányzati képviselők és polgármesterek választásán választó legyen.  
-(4) Sarkalatos törvény a választójogot vagy annak teljességét magyarországi lakóhelyhez, a választhatóságot további feltételekhez kötheti.  
-(5) A helyi önkormányzati képviselők és polgármesterek választásán a választópolgár lakóhelyén vagy bejelentett tartózkodási helyén választhat. A választópolgár a szavazás jogát lakóhelyén vagy bejelentett tartózkodási helyén gyakorolhatja.  
-(6) Nem rendelkezik választójoggal az, akit bűncselekmény elkövetése vagy belátási képességének korlátozottsága miatt a bíróság a választójogból kizárt. Nem választható az Európai Unió más tagállamának magyarországi lakóhellyel rendelkező állampolgára, ha az állampolgársága szerinti állam jogszabálya, bírósági vagy hatósági döntése alapján hazájában kizárták e jog gyakorlásából.  
-(7) Mindenkinek joga van országos népszavazáson részt venni, aki az országgyűlési képviselők választásán választó. Mindenkinek joga van helyi népszavazáson részt venni, aki a helyi önkormányzati képviselők és polgármesterek választásán választó.  
-(8) Minden magyar állampolgárnak joga van ahhoz, hogy rátermettségének, képzettségének és szakmai tudásának megfelelően közhivatalt viseljen. Törvény határozza meg azokat a közhivatalokat, amelyeket párt tagja vagy tisztségviselője nem tölthet be.  
+(1) Minden nagykorú magyar állampolgárnak joga van ahhoz, hogy – a (2) bekezdésben foglalt kivétellel – az országgyűlési képviselők választásán választó és választható legyen.  
+(2) Az országgyűlési képviselők választásán nem választható, aki országgyűlési képviselői megbízatást összesen legalább tizenkét évig már betöltött, vagy az, akit legalább három választáson országgyűlési képviselővé megválasztottak.  
+(3) Minden nagykorú magyar állampolgárnak joga van ahhoz, hogy a helyi önkormányzati képviselők és polgármesterek, valamint az európai parlamenti képviselők választásán választó és választható legyen.  
+(4) Az Európai Unió más tagállamának magyarországi lakóhellyel rendelkező minden nagykorú állampolgárának joga van ahhoz, hogy a helyi önkormányzati képviselők és polgármesterek, valamint az európai parlamenti képviselők választásán választó és választható legyen.  
+(5) Magyarországon menekültként elismert vagy huzamos tartózkodási jogosultsággal rendelkező minden nagykorú személynek joga van ahhoz, hogy a helyi önkormányzati képviselők és polgármesterek választásán választó legyen.  
+(6) Sarkalatos törvény a választójogot vagy annak teljességét magyarországi lakóhelyhez, a választhatóságot további feltételekhez kötheti.  
+(7) A helyi önkormányzati képviselők és polgármesterek választásán a választópolgár lakóhelyén vagy bejelentett tartózkodási helyén választhat. A választópolgár a szavazás jogát lakóhelyén vagy bejelentett tartózkodási helyén gyakorolhatja.  
+(8) Nem rendelkezik választójoggal az, akit bűncselekmény elkövetése vagy belátási képességének korlátozottsága miatt a bíróság a választójogból kizárt. Nem választható az Európai Unió más tagállamának magyarországi lakóhellyel rendelkező állampolgára, ha az állampolgársága szerinti állam jogszabálya, bírósági vagy hatósági döntése alapján hazájában kizárták e jog gyakorlásából.  
+(9) Mindenkinek joga van országos népszavazáson részt venni, aki az országgyűlési képviselők választásán választó. Mindenkinek joga van helyi népszavazáson részt venni, aki a helyi önkormányzati képviselők és polgármesterek választásán választó.  
+(10) Minden magyar állampolgárnak joga van ahhoz, hogy rátermettségének, képzettségének és szakmai tudásának megfelelően közhivatalt viseljen. Törvény határozza meg azokat a közhivatalokat, amelyeket párt tagja vagy tisztségviselője nem tölthet be.  
 
 > *XXIV. cikk*  
 
@@ -401,7 +403,7 @@ Mindenkinek joga van ahhoz, hogy egyedül vagy másokkal együtt, írásban kér
 &nbsp;&nbsp;&nbsp;&nbsp;b) törvényeket alkot;  
 &nbsp;&nbsp;&nbsp;&nbsp;c) elfogadja a központi költségvetést, és jóváhagyja annak végrehajtását;  
 &nbsp;&nbsp;&nbsp;&nbsp;d) felhatalmazást ad a feladat- és hatáskörébe tartozó nemzetközi szerződés kötelező hatályának elismerésére;  
-&nbsp;&nbsp;&nbsp;&nbsp;e) megválasztja a köztársasági elnököt, az Alkotmánybíróság tagjait és elnökét, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, az alapvető jogok biztosát és helyetteseit, valamint az Állami Számvevőszék elnökét;  
+&nbsp;&nbsp;&nbsp;&nbsp;e) megválasztja a köztársasági elnököt, az Alkotmánybíróság tagjait, a Kúria elnökét, az Országos Bírósági Hivatal elnökét, a legfőbb ügyészt, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökét és elnökhelyetteseit, az alapvető jogok biztosát és helyetteseit, valamint az Állami Számvevőszék elnökét;  
 &nbsp;&nbsp;&nbsp;&nbsp;f) megválasztja a miniszterelnököt, dönt a Kormánnyal kapcsolatos bizalmi kérdésről;  
 &nbsp;&nbsp;&nbsp;&nbsp;g) feloszlatja az alaptörvény-ellenesen működő képviselő-testületet;  
 &nbsp;&nbsp;&nbsp;&nbsp;h) határoz a háborús helyzet kinyilvánításáról és a békekötésről;  
@@ -449,9 +451,9 @@ Mindenkinek joga van ahhoz, hogy egyedül vagy másokkal együtt, írásban kér
 (4) Az országgyűlési képviselők tevékenységük összehangolására a házszabályi rendelkezésekben meghatározott feltételek szerint országgyűlési képviselőcsoportot alakíthatnak.  
 (5) Az Országgyűlés akkor határozatképes, ha az ülésen az országgyűlési képviselőknek több mint a fele jelen van.  
 (6) Ha az Alaptörvény eltérően nem rendelkezik, az Országgyűlés határozatait a jelen lévő országgyűlési képviselők több mint a felének szavazatával hozza meg. A házszabályi rendelkezések egyes döntések meghozatalát minősített többséghez köthetik.  
-(7) (7) Az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadott házszabályi rendelkezésekben állapítja meg működésének szabályait és tárgyalási rendjét. Az Országgyűlés zavartalan működésének biztosítása és méltóságának megőrzése érdekében az Országgyűlés elnöke a házszabályi rendelkezésekben meghatározott rendészeti és fegyelmi jogkört gyakorol.  
+(7) (7) Az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadott házszabályi rendelkezésekben állapítja meg működésének szabályait és tárgyalási rendjét. Az Országgyűlés zavartalan működésének biztosítása és méltóságának megőrzése érdekében az Országgyűlés elnöke a házszabályi rendelkezésekben meghatározott fegyelmi jogkört gyakorol.  
 (8) Az Országgyűlés rendszeres ülésezését biztosító rendelkezéseket sarkalatos törvény határozza meg.  
-(9) Az Országgyűlés biztonságáról országgyűlési őrség gondoskodik. Az országgyűlési őrség működését az Országgyűlés elnöke irányítja.  
+(9)  
 
 > *6. cikk*  
 
@@ -467,9 +469,9 @@ Mindenkinek joga van ahhoz, hogy egyedül vagy másokkal együtt, írásban kér
 
 > *7. cikk*  
 
-(1) Az országgyűlési képviselő kérdést intézhet az alapvető jogok biztosához, az Állami Számvevőszék elnökéhez, a legfőbb ügyészhez és a Magyar Nemzeti Bank elnökéhez a feladatkörükbe tartozó bármely ügyben.  
+(1) Az országgyűlési képviselő kérdést intézhet az alapvető jogok biztosához, az Állami Számvevőszék elnökéhez, a legfőbb ügyészhez, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökéhez és a Magyar Nemzeti Bank elnökéhez a feladatkörükbe tartozó bármely ügyben.  
 (2) Az országgyűlési képviselő interpellációt és kérdést intézhet a Kormányhoz és a Kormány tagjához a feladatkörükbe tartozó bármely ügyben.  
-(3) Az országgyűlési bizottságok vizsgálati tevékenységét, a bizottságok előtti megjelenés kötelezettségét sarkalatos törvény szabályozza.  
+(3) Az országgyűlési bizottságok vizsgálati tevékenységét, a bizottságok előtti megjelenés kötelezettségét törvény szabályozza.  
 
 
 **Országos népszavazás**  
@@ -602,7 +604,7 @@ Mindenkinek joga van ahhoz, hogy egyedül vagy másokkal együtt, írásban kér
 
 (1) A minisztériumok felsorolásáról törvény rendelkezik.  
 (2) Tárca nélküli miniszter a Kormány által meghatározott feladatkör ellátására nevezhető ki.  
-(3) A Kormány általános hatáskörű területi államigazgatási szerve a fővárosi és vármegyei kormányhivatal.  
+(3) A Kormány általános hatáskörű területi államigazgatási szerve a fővárosi és megyei kormányhivatal.  
 (4) Sarkalatos törvény minisztérium, miniszter vagy közigazgatási szerv megjelölésére vonatkozó rendelkezését törvény módosíthatja.  
 (5) A kormánytisztviselők jogállását törvény szabályozza.  
 
@@ -673,7 +675,7 @@ Az Országgyűlés tájékoztatást kérhet a Kormánytól az Európai Unió kor
 &nbsp;&nbsp;&nbsp;&nbsp;b) bírói kezdeményezésre soron kívül, de legkésőbb kilencven napon belül felülvizsgálja az egyedi ügyben alkalmazandó jogszabálynak az Alaptörvénnyel való összhangját;  
 &nbsp;&nbsp;&nbsp;&nbsp;c) alkotmányjogi panasz alapján felülvizsgálja az egyedi ügyben alkalmazott jogszabálynak az Alaptörvénnyel való összhangját;  
 &nbsp;&nbsp;&nbsp;&nbsp;d) alkotmányjogi panasz alapján felülvizsgálja a bírói döntésnek az Alaptörvénnyel való összhangját;  
-&nbsp;&nbsp;&nbsp;&nbsp;e) a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa kezdeményezésére felülvizsgálja a jogszabályoknak az Alaptörvénnyel való összhangját;  
+&nbsp;&nbsp;&nbsp;&nbsp;e) a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke vagy az alapvető jogok biztosa kezdeményezésére felülvizsgálja a jogszabályoknak az Alaptörvénnyel való összhangját;  
 &nbsp;&nbsp;&nbsp;&nbsp;f) vizsgálja a jogszabályok nemzetközi szerződésbe ütközését;  
 &nbsp;&nbsp;&nbsp;&nbsp;g) az Alaptörvényben, illetve sarkalatos törvényben meghatározott további feladat- és hatásköröket gyakorol.  
 (3) Az Alkotmánybíróság  
@@ -684,13 +686,13 @@ illetve sarkalatos törvényben meghatározott jogkövetkezményt állapít meg.
 (4) Az Alkotmánybíróság a jogszabály felülvizsgálni nem kért rendelkezését csak abban az esetben vizsgálhatja, illetve semmisítheti meg, ha az a felülvizsgálni kért jogszabályi rendelkezéssel szoros tartalmi összefüggésben áll.  
 (5) Az Alkotmánybíróság az Alaptörvényt és az Alaptörvény módosítását csak a megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelmények tekintetében vizsgálhatja felül. E vizsgálatot  
 &nbsp;&nbsp;&nbsp;&nbsp;a) az elfogadott, de még ki nem hirdetett Alaptörvény és Alaptörvény-módosítás tekintetében a köztársasági elnök,  
-&nbsp;&nbsp;&nbsp;&nbsp;b) a kihirdetéstől számított harminc napon belül a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész vagy az alapvető jogok biztosa  
+&nbsp;&nbsp;&nbsp;&nbsp;b) a kihirdetéstől számított harminc napon belül a Kormány, az országgyűlési képviselők egynegyede, a Kúria elnöke, a legfőbb ügyész, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke vagy az alapvető jogok biztosa  
 kezdeményezheti.  
 (6) Az Alkotmánybíróság az (5) bekezdés szerinti indítványról soron kívül, de legkésőbb harminc napon belül határoz. Ha az Alkotmánybíróság megállapítja, hogy az Alaptörvény vagy az Alaptörvény módosítása nem felelt meg az (5) bekezdésben meghatározott eljárási követelményeknek, az Alaptörvényt vagy az Alaptörvény módosítását  
 &nbsp;&nbsp;&nbsp;&nbsp;a) az (5) bekezdés a) pontja szerinti esetben az Országgyűlés újratárgyalja,  
 &nbsp;&nbsp;&nbsp;&nbsp;b) az (5) bekezdés b) pontja szerinti esetben az Alkotmánybíróság megsemmisíti.  
 (7) Az Alkotmánybíróság sarkalatos törvényben meghatározottak szerint a jogszabály megalkotóját, a törvény kezdeményezőjét vagy képviselőjüket meghallgatja, illetve véleményüket eljárása során beszerzi, ha az ügy a személyek széles körét érinti. Az eljárás ezen szakasza nyilvános.  
-(8) Az Alkotmánybíróság tizenöt tagból álló testület, amelynek tagjait az Országgyűlés az országgyűlési képviselők kétharmadának szavazatával tizenkét évre választja. Az Országgyűlés az országgyűlési képviselők kétharmadának szavazatával az Alkotmánybíróság tagjai közül elnököt választ, az elnök megbízatása az alkotmánybírói hivatali ideje lejártáig tart. Az Alkotmánybíróság tagjai nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.  
+(8) Az Alkotmánybíróság tizenöt tagból álló testület, amelynek tagjait az Országgyűlés az országgyűlési képviselők kétharmadának szavazatával kilenc évre választja. Az Alkotmánybíróság tagját e tisztségre nem lehet újraválasztani. Az Alkotmánybíróság a tagjai közül három évre megválasztja az Alkotmánybíróság elnökét, aki e tisztségre újraválasztható. Az Alkotmánybíróság tagjai nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet. Az Alkotmánybíróság tagjának megbízatása a hetvenedik életévének betöltésével megszűnik.  
 (9) Az Alkotmánybíróság hatáskörének, szervezetének, működésének részletes szabályait sarkalatos törvény határozza meg.  
 
 
@@ -698,20 +700,36 @@ kezdeményezheti.
 
 > *25. cikk*  
 
-(1) A bíróságok igazságszolgáltatási tevékenységet látnak el. A legfőbb bírósági szerv a Kúria.
-(2) A bíróság dönt büntetőügyben, magánjogi jogvitában, a közigazgatási határozatok törvényességéről, az önkormányzati rendelet más jogszabályba ütközéséről és megsemmisítéséről, a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztásának megállapításáról és törvényben meghatározott egyéb ügyben.
+(1) A bíróságok igazságszolgáltatási tevékenységet látnak el. A legfőbb bírósági szerv a Kúria.  
+(2) A bíróság dönt büntetőügyben, magánjogi jogvitában, a közigazgatási határozatok törvényességéről, az önkormányzati rendelet más jogszabályba ütközéséről és megsemmisítéséről, a helyi önkormányzat törvényen alapuló jogalkotási kötelezettsége elmulasztásának megállapításáról és törvényben meghatározott egyéb ügyben.  
 (3) A Kúria a (2) bekezdésben meghatározottak mellett biztosítja a bíróságok jogalkalmazásának egységét, a bíróságokra kötelező jogegységi határozatot hoz.  
 (4) A bírósági szervezet többszintű.  
-(5) A bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. Az Országos Bírói Tanács felügyeli a bíróságok központi igazgatását. Az Országos Bírói Tanács és más bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.
-(6) Az Országos Bírósági Hivatal elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. Az Országos Bírósági Hivatal elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges. Az Országos Bírói Tanács tagja a Kúria elnöke, további tagjait sarkalatos törvényben meghatározottak szerint a bírák választják.  
-(7) Törvény egyes jogvitákban más szervek eljárását is lehetővé teheti.  
-(8) A bíróságok szervezetének, igazgatásának és központi igazgatása felügyeletének, a bírák jogállásának részletes szabályait, valamint a bírák javadalmazását sarkalatos törvény határozza meg.  
+(5) A bíróságok igazgatásának központi feladatait az Országos Bírósági Hivatal elnöke végzi. Az Országos Bírói Tanács felügyeli a bíróságok központi igazgatását. Az Országos Bírói Tanács és más bírói önkormányzati szervek közreműködnek a bíróságok igazgatásában.  
+(6) Az Országos Bírósági Hivatal elnökét a bírák közül hat évre a köztársasági elnök javaslatára az Országgyűlés választja. Az Országos Bírósági Hivatal elnöke nem választható újra. A köztársasági elnök a bírák által – sarkalatos törvényben meghatározott módon – jelölt legfeljebb három személy egyikét javasolja az Országos Bírósági Hivatal elnökének. Az Országos Bírósági Hivatal elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges. Az Országos Bírói Tanács tagja a Kúria elnöke, további tagjait sarkalatos törvényben meghatározottak szerint a bírák választják.  
+(7) Az Országos Bírósági Hivatal elnökének megbízatása – sarkalatos törvényben meghatározott módon – megszűnik  
+&nbsp;&nbsp;&nbsp;&nbsp;a) a megbízatási időtartam leteltével,  
+&nbsp;&nbsp;&nbsp;&nbsp;b) a bírói szolgálati viszonya megszűnésével,  
+&nbsp;&nbsp;&nbsp;&nbsp;c) lemondással,  
+&nbsp;&nbsp;&nbsp;&nbsp;d) az összeférhetetlenség kimondásával,  
+&nbsp;&nbsp;&nbsp;&nbsp;e) felmentéssel,  
+&nbsp;&nbsp;&nbsp;&nbsp;f) a tisztségtől való megfosztással,  
+&nbsp;&nbsp;&nbsp;&nbsp;g) bírói kezdeményezésre, visszahívással.  
+(8) Törvény egyes jogvitákban más szervek eljárását is lehetővé teheti.  
+(9) A bíróságok szervezetének, igazgatásának és központi igazgatása felügyeletének, a bírák jogállásának részletes szabályait, valamint a bírák javadalmazását sarkalatos törvény határozza meg.  
 
 > *26. cikk*  
 
 (1) A bírák függetlenek, és csak a törvénynek vannak alárendelve, ítélkezési tevékenységükben nem utasíthatóak. A bírákat tisztségükből csak sarkalatos törvényben meghatározott okból és eljárás keretében lehet elmozdítani. A bírák nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.  
 (2) A hivatásos bírákat - sarkalatos törvényben meghatározottak szerint - a köztársasági elnök nevezi ki. Bíróvá az nevezhető ki, aki a harmincötödik életévét betöltötte. A Kúria elnöke és az Országos Bírósági Hivatal elnöke kivételével a bíró szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig, sarkalatos törvényben meghatározott esetekben a bíró hetvenedik életévének betöltéséig állhat fenn.
-(3) A Kúria elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. A Kúria elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
+(3) A Kúria elnökét a bírák közül hat évre a köztársasági elnök javaslatára az Országgyűlés választja. A Kúria elnöke nem választható újra. A köztársasági elnök a bírák által – sarkalatos törvényben meghatározott módon – jelölt legfeljebb három személy egyikét javasolja a Kúria elnökének. A Kúria elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.  
+(4) A Kúria elnökének megbízatása – sarkalatos törvényben meghatározott módon – megszűnik  
+&nbsp;&nbsp;&nbsp;&nbsp;a) a megbízatási időtartam leteltével,  
+&nbsp;&nbsp;&nbsp;&nbsp;b) a bírói szolgálati viszonya megszűnésével,  
+&nbsp;&nbsp;&nbsp;&nbsp;c) lemondással,  
+&nbsp;&nbsp;&nbsp;&nbsp;d) az összeférhetetlenség kimondásával,  
+&nbsp;&nbsp;&nbsp;&nbsp;e) felmentéssel,  
+&nbsp;&nbsp;&nbsp;&nbsp;f) a tisztségtől való megfosztással,  
+&nbsp;&nbsp;&nbsp;&nbsp;g) bírói kezdeményezésre, visszahívással.  
 
 > *27. cikk*  
 
@@ -728,10 +746,10 @@ A bíróságok a jogalkalmazás során a jogszabályok szövegét elsősorban az
 
 > *29. cikk*  
 
-(1) A legfőbb ügyész és az ügyészség független, az igazságszolgáltatás közreműködőjeként mint közvádló az állam büntetőigényének kizárólagos érvényesítője. Az ügyészség üldözi a bűncselekményeket, fellép más jogsértő cselekményekkel és mulasztásokkal szemben, valamint elősegíti a jogellenes cselekmények megelőzését.  
+(1) A legfőbb ügyész és az ügyészség független, törvényben meghatározottak szerint az igazságszolgáltatás közreműködőjeként mint közvádló az állam büntetőigényének érvényesítője. Az ügyészség üldözi a bűncselekményeket, fellép más jogsértő cselekményekkel és mulasztásokkal szemben, valamint elősegíti a jogellenes cselekmények megelőzését.  
 (2) A legfőbb ügyész és az ügyészség  
 &nbsp;&nbsp;&nbsp;&nbsp;a) törvényben meghatározottak szerint jogokat gyakorol a nyomozással összefüggésben;  
-&nbsp;&nbsp;&nbsp;&nbsp;b) képviseli a közvádat a bírósági eljárásban;  
+&nbsp;&nbsp;&nbsp;&nbsp;b) közvádat képvisel a bírósági eljárásban;  
 &nbsp;&nbsp;&nbsp;&nbsp;c) felügyeletet gyakorol a büntetés-végrehajtás törvényessége felett;  
 &nbsp;&nbsp;&nbsp;&nbsp;d) a közérdek védelmezőjeként az Alaptörvény vagy törvény által meghatározott további feladat- és hatásköröket gyakorol.  
 (3) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja, kinevezi az ügyészeket. A legfőbb ügyész kivételével az ügyész szolgálati jogviszonya az ügyész hetvenedik életévének betöltéséig állhat fenn.  
@@ -777,22 +795,22 @@ A bíróságok a jogalkalmazás során a jogszabályok szövegét elsősorban az
 &nbsp;&nbsp;&nbsp;&nbsp;l) törvényben meghatározott további feladat- és hatásköröket gyakorol.  
 (2) Feladatkörében eljárva a helyi önkormányzat törvény által nem szabályozott helyi társadalmi viszonyok rendezésére, illetve törvényben kapott felhatalmazás alapján önkormányzati rendeletet alkot.  
 (3) Az önkormányzati rendelet más jogszabállyal nem lehet ellentétes.  
-(4) A helyi önkormányzat az önkormányzati rendeletet a kihirdetését követően haladéktalanul megküldi a fővárosi és vármegyei kormányhivatalnak. Ha a fővárosi és vármegyei kormányhivatal az önkormányzati rendeletet vagy annak valamely rendelkezését jogszabálysértőnek találja, kezdeményezheti a bíróságnál az önkormányzati rendelet felülvizsgálatát.  
-(5) A fővárosi és vármegyei kormányhivatal kezdeményezheti a bíróságnál a helyi önkormányzat törvényen alapuló rendeletalkotási vagy határozathozatali kötelezettsége elmulasztásának megállapítását. Ha a helyi önkormányzat a rendeletalkotási vagy határozathozatali kötelezettségének a bíróság által a mulasztást megállapító döntésben meghatározott időpontig nem tesz eleget, a bíróság a fővárosi és a vármegyei kormányhivatal kezdeményezésére elrendeli, hogy a mulasztás orvoslásához szükséges önkormányzati rendeletet vagy önkormányzati határozatot a helyi önkormányzat nevében a fővárosi és a vármegyei kormányhivatal vezetője alkossa meg.  
+(4) A helyi önkormányzat az önkormányzati rendeletet a kihirdetését követően haladéktalanul megküldi a fővárosi és megyei kormányhivatalnak. Ha a fővárosi és megyei kormányhivatal az önkormányzati rendeletet vagy annak valamely rendelkezését jogszabálysértőnek találja, kezdeményezheti a bíróságnál az önkormányzati rendelet felülvizsgálatát.  
+(5) A fővárosi és megyei kormányhivatal kezdeményezheti a bíróságnál a helyi önkormányzat törvényen alapuló rendeletalkotási vagy határozathozatali kötelezettsége elmulasztásának megállapítását. Ha a helyi önkormányzat a rendeletalkotási vagy határozathozatali kötelezettségének a bíróság által a mulasztást megállapító döntésben meghatározott időpontig nem tesz eleget, a bíróság a fővárosi és a megyei kormányhivatal kezdeményezésére elrendeli, hogy a mulasztás orvoslásához szükséges önkormányzati rendeletet vagy önkormányzati határozatot a helyi önkormányzat nevében a fővárosi és a megyei kormányhivatal vezetője alkossa meg.  
 (6) A helyi önkormányzatok tulajdona köztulajdon, amely feladataik ellátását szolgálja.  
 
 > *33. cikk*  
 
 (1) A helyi önkormányzat feladat- és hatásköreit a képviselő-testület gyakorolja.  
-(2) A helyi képviselő-testületet a polgármester vezeti. A vármegyei képviselő-testület elnökét a vármegyei képviselő-testület saját tagjai közül választja megbízatásának időtartamára.  
+(2) A helyi képviselő-testületet a polgármester vezeti. A megyei képviselő-testület elnökét a megyei képviselő-testület saját tagjai közül választja megbízatásának időtartamára.  
 (3) A képviselő-testület sarkalatos törvényben meghatározottak szerint bizottságot választhat, és hivatalt hozhat létre.  
 
 > *34. cikk*  
 
 (1) A helyi önkormányzat és az állami szervek a közösségi célok elérése érdekében együttműködnek. A helyi önkormányzat részére kötelező feladat- és hatáskört törvény állapíthat meg. A helyi önkormányzat kötelező feladat-és hatásköreinek ellátásához azokkal arányban álló költségvetési, illetve más vagyoni támogatásra jogosult.  
 (2) Törvény elrendelheti a helyi önkormányzat kötelező feladatának társulásban történő ellátását.  
-(3) Törvény vagy törvényi felhatalmazáson alapuló kormányrendelet a polgármester, a vármegyei képviselő-testület elnöke, valamint a képviselő-testület hivatalának vezetője vagy ügyintézője számára kivételesen államigazgatási feladat- és hatáskört is megállapíthat.  
-(4) A Kormány a fővárosi és vármegyei kormányhivatal útján biztosítja a helyi önkormányzatok törvényességi felügyeletét.  
+(3) Törvény vagy törvényi felhatalmazáson alapuló kormányrendelet a polgármester, a megyei képviselő-testület elnöke, valamint a képviselő-testület hivatalának vezetője vagy ügyintézője számára kivételesen államigazgatási feladat- és hatáskört is megállapíthat.  
+(4) A Kormány a fővárosi és megyei kormányhivatal útján biztosítja a helyi önkormányzatok törvényességi felügyeletét.  
 (5) Törvény a költségvetési egyensúly megőrzése érdekében a helyi önkormányzat törvényben meghatározott mértékű kölcsönfelvételét vagy más kötelezettségvállalását feltételhez, illetve a Kormány hozzájárulásához kötheti.  
 
 > *35. cikk*  
@@ -822,8 +840,8 @@ A bíróságok a jogalkalmazás során a jogszabályok szövegét elsősorban az
 (1) A Kormány a központi költségvetést törvényesen és célszerűen, a közpénzek eredményes kezelésével és az átláthatóság biztosításával köteles végrehajtani.  
 (2) A központi költségvetés végrehajtása során – a 36. cikk (6) bekezdésében meghatározott kivételekkel – nem vehető fel olyan kölcsön, és nem vállalható olyan pénzügyi kötelezettség, amely azt eredményezné, hogy az államadósság meghaladja a teljes hazai össztermék felét.  
 (3) Mindaddig, amíg az államadósság a teljes hazai össztermék felét meghaladja – a 36. cikk (6) bekezdésében meghatározott kivételekkel – a központi költségvetés végrehajtása során nem vehető fel olyan kölcsön, és nem vállalható olyan pénzügyi kötelezettség, amelynek következtében az államadósságnak a teljes hazai össztermékhez viszonyított aránya a megelőző évben fennállóhoz képest növekedne.  
-(4) Mindaddig, amíg az államadósság a teljes hazai össztermék felét meghaladja, az Alkotmánybíróság a 24. cikk (2) bekezdés b)–e) pontjában foglalt hatáskörében a központi költségvetésről, a központi költségvetés végrehajtásáról, a központi adónemekről, az illetékekről és járulékokról, a vámokról, valamint a helyi adók központi feltételeiről szóló törvények Alaptörvénnyel való összhangját kizárólag az élethez és az emberi méltósághoz való joggal, a személyes adatok védelméhez való joggal, a gondolat, a lelkiismeret és a vallás szabadságához való joggal vagy a magyar állampolgársághoz kapcsolódó jogokkal összefüggésben vizsgálhatja felül, és ezek sérelme miatt semmisítheti meg. Az Alkotmánybíróság az e tárgykörbe tartozó törvényeket is korlátozás nélkül jogosult megsemmisíteni, ha a törvény megalkotására és kihirdetésére vonatkozó, az Alaptörvényben foglalt eljárási követelmények nem teljesültek.  
-(5) A (4) bekezdést azon törvényi rendelkezések esetében, amelyek abban az időszakban léptek hatályba, amíg az államadósság a teljes hazai össztermék felét meghaladta, ezen időszak tekintetében akkor is alkalmazni kell, ha az államadósság a teljes hazai össztermék felét már nem haladja meg.  
+(4)  
+(5)  
 (6) Az államadósság és a teljes hazai össztermék számítási módját, valamint a 36. cikkben és az (1)–(3) bekezdésben foglaltak végrehajtására vonatkozó szabályokat törvény határozza meg.  
 (7) Magyarország az Európai Uniónak olyan hitelfelvételéhez és az ahhoz kapcsolódó garanciavállaláshoz, amely Magyarország által teljesítendő fizetési kötelezettséget keletkeztet, az Országgyűlésnek az országgyűlési képviselők kétharmadának szavazatával elfogadott egyedi határozatával adott felhatalmazása alapján, a Kormány egyedi döntése alapján járulhat hozzá.  
 
@@ -840,35 +858,46 @@ A bíróságok a jogalkalmazás során a jogszabályok szövegét elsősorban az
 
 (1) A központi költségvetésből csak olyan szervezet részére nyújtható támogatás, vagy teljesíthető szerződés alapján kifizetés, amelynek tulajdonosi szerkezete, felépítése, valamint a támogatás felhasználására irányuló tevékenysége átlátható.  
 (2) A közpénzekkel gazdálkodó minden szervezet köteles a nyilvánosság előtt elszámolni a közpénzekre vonatkozó gazdálkodásával. A közpénzeket és a nemzeti vagyont az átláthatóság és a közélet tisztaságának elve szerint kell kezelni. A közpénzekre és a nemzeti vagyonra vonatkozó adatok közérdekű adatok.
-(3) Közpénz az állam bevétele, kiadása és követelése.
+(3)  
 
 > *40. cikk*  
 
-A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szükségletek kielégítéséhez való kiszámítható hozzájárulás és az időskori létbiztonság érdekében sarkalatos törvény határozza meg.  
+A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szükségletek kielégítéséhez való kiszámítható hozzájárulás és az időskori létbiztonság érdekében törvény határozza meg.  
 
 > *41. cikk*  
 
-(1) A Magyar Nemzeti Bank Magyarország központi bankja. A Magyar Nemzeti Bank sarkalatos törvényben meghatározott módon felelős a monetáris politikáért.  
+(1) A Magyar Nemzeti Bank Magyarország központi bankja. A Magyar Nemzeti Bank törvényben meghatározott módon felelős a monetáris politikáért.  
 (2) A Magyar Nemzeti Bank ellátja a pénzügyi közvetítőrendszer felügyeletét.  
 (3) A Magyar Nemzeti Bank elnökét és alelnökeit a köztársasági elnök hat évre nevezi ki.  
 (4) A Magyar Nemzeti Bank elnöke a Magyar Nemzeti Bank tevékenységéről évente beszámol az Országgyűlésnek.  
-(5) A Magyar Nemzeti Bank elnöke törvényben kapott felhatalmazás alapján, sarkalatos törvényben meghatározott feladatkörében rendeletet ad ki, amely törvénnyel nem lehet ellentétes. A Magyar Nemzeti Bank elnökét rendelet kiadásában az általa rendeletben kijelölt alelnök helyettesítheti.  
-(6) A Magyar Nemzeti Bank szervezetének és működésének részletes szabályait sarkalatos törvény határozza meg.  
+(5) A Magyar Nemzeti Bank elnöke törvényben kapott felhatalmazás alapján, törvényben meghatározott feladatkörében rendeletet ad ki, amely törvénnyel nem lehet ellentétes. A Magyar Nemzeti Bank elnökét rendelet kiadásában az általa rendeletben kijelölt alelnök helyettesítheti.  
+(6) A Magyar Nemzeti Bank szervezetének és működésének részletes szabályait törvény határozza meg.  
 
 > *42. cikk*  
+
+(1) A közvagyon védelme, valamint a jogellenesen kezelt vagy felhasznált közvagyon felkutatásának és visszaszerzésének elősegítése érdekében Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal működik.  
+(2) A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal független, törvényben meghatározottak szerint az igazságszolgáltatás közreműködőjeként mint közvádló az állam büntetőigényének érvényesítője.  
+(3) A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvényben meghatározottak szerint  
+&nbsp;&nbsp;&nbsp;&nbsp;a) jogokat gyakorol a nyomozással összefüggésben,  
+&nbsp;&nbsp;&nbsp;&nbsp;b) közvádat képvisel a bírósági eljárásban,  
+&nbsp;&nbsp;&nbsp;&nbsp;c) közvagyon-visszaszerzési és -védelmi feladatokat lát el.  
+(4) A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökét és elnökhelyetteseit az Országgyűlés az országgyűlési képviselők kétharmadának szavazatával hat évre választja meg.  
+(5) A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnöke évente beszámol tevékenységéről az Országgyűlésnek.  
+(6) A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal személyi állományának tagjai nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.  
+(7) A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal szervezetére, működésére, elnökére és elnökhelyettesei jogállására vonatkozó részletes szabályokat sarkalatos törvény határozza meg.  
 
 > *43. cikk*  
 
 (1) Az Állami Számvevőszék az Országgyűlés pénzügyi és gazdasági ellenőrző szerve. Az Állami Számvevőszék törvényben meghatározott feladatkörében ellenőrzi a központi költségvetés végrehajtását, az államháztartás gazdálkodását, az államháztartásból származó források felhasználását és a nemzeti vagyon kezelését. Az Állami Számvevőszék ellenőrzéseit törvényességi, célszerűségi és eredményességi szempontok szerint végzi.  
 (2) Az Állami Számvevőszék elnökét az Országgyűlés az országgyűlési képviselők kétharmadának szavazatával tizenkét évre választja meg.  
 (3) Az Állami Számvevőszék elnöke az Állami Számvevőszék tevékenységéről évente beszámol az Országgyűlésnek.  
-(4) Az Állami Számvevőszék szervezetének és működésének részletes szabályait sarkalatos törvény határozza meg.  
+(4) Az Állami Számvevőszék szervezetének és működésének részletes szabályait törvény határozza meg.  
 
 > *44. cikk*  
 
 (1) A Költségvetési Tanács az Országgyűlés törvényhozó tevékenységét támogató szerv, amely a központi költségvetés megalapozottságát vizsgálja.  
 (2) A Költségvetési Tanács törvényben meghatározott módon közreműködik a központi költségvetésről szóló törvény előkészítésében.  
-(3) A központi költségvetésről szóló törvény elfogadásához a 36. cikk (4) és (5) bekezdésében foglaltak betartása érdekében a Költségvetési Tanács előzetes hozzájárulása szükséges.  
+(3)  
 (4) A Költségvetési Tanács tagja a Költségvetési Tanács elnöke, a Magyar Nemzeti Bank elnöke és az Állami Számvevőszék elnöke. A Költségvetési Tanács elnökét a köztársasági elnök nevezi ki hat évre.  
 (5) A Költségvetési Tanács működésének részletes szabályait sarkalatos törvény határozza meg.  
 
@@ -957,11 +986,11 @@ esetén szükségállapotot hirdethet ki.
 (2) Különleges jogrendben az alapvető jogok gyakorlása – a II. és a III. cikkben, valamint a XXVIII. cikk (2)–(6) bekezdésében megállapított alapvető jogok kivételével – felfüggeszthető vagy az I. cikk (3) bekezdése szerinti mértéken túl korlátozható.
 (3) A Kormány különleges jogrend idején köteles minden olyan intézkedést megtenni, amely az Országgyűlés folyamatos működését szavatolja.
 (4) Különleges jogrend idején az Alkotmánybíróság működése nem korlátozható. A Kormány különleges jogrendben köteles minden olyan intézkedést megtenni, amely az Alkotmánybíróság folyamatos működését szavatolja.
-(5) A különleges jogrendben alkalmazandó részletes szabályokat sarkalatos törvény határozza meg.
+(5) A különleges jogrendben alkalmazandó részletes szabályokat törvény határozza meg.
 
 > *53. cikk*
 
-(1) A Kormány különleges jogrendben rendeletet alkothat, amellyel sarkalatos törvényben meghatározottak szerinti rendkívüli intézkedéseket hozhat, valamint  
+(1) A Kormány különleges jogrendben rendeletet alkothat, amellyel törvényben meghatározottak szerinti rendkívüli intézkedéseket hozhat, valamint  
 &nbsp;&nbsp;&nbsp;&nbsp;a) hadiállapotban és szükségállapotban az Országgyűlés külön felhatalmazása nélkül,  
 &nbsp;&nbsp;&nbsp;&nbsp;b) veszélyhelyzetben az Országgyűlés – a jelen lévő országgyűlési képviselők kétharmadának szavazatával határozott időre megadott – felhatalmazásával  
 egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet.  
@@ -975,14 +1004,14 @@ egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől
 
 > *54. cikk*
 
-(1) Hadiállapot vagy szükségállapot kihirdetésének Kormány általi kezdeményezését követően a Kormány rendeletet alkothat, amellyel – sarkalatos törvényben meghatározottak szerint – a kihirdetésre okot adó körülmény azonnali kezeléséhez szükséges mértékben egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
+(1) Hadiállapot vagy szükségállapot kihirdetésének Kormány általi kezdeményezését követően a Kormány rendeletet alkothat, amellyel – törvényben meghatározottak szerint – a kihirdetésre okot adó körülmény azonnali kezeléséhez szükséges mértékben egyes törvények alkalmazását felfüggesztheti, törvényi rendelkezésektől eltérhet, valamint egyéb rendkívüli intézkedéseket hozhat.
 (2) A Kormány az (1) bekezdés szerinti rendeletről folyamatosan tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
 (3) Az (1) bekezdés szerinti rendelet hatálya a hadiállapot vagy a szükségállapot kihirdetésére vonatkozó döntésig, de legfeljebb a kihirdetés Kormány általi kezdeményezésétől számított hatvan napig, hadiállapot vagy szükségállapot kihirdetése esetén legfeljebb a hadiállapot vagy a szükségállapot megszűnéséig tart.
 (4) Ha a hadiállapot vagy a szükségállapot kihirdetésére nem kerül sor, akkor az (1) bekezdés szerint rendeletben hozott intézkedések joghatásainak rendezését az Országgyűlés törvényben szabályozza.
 (5) A Kormány a hadiállapot vagy a szükségállapot kihirdetésének kezdeményezését követően köteles minden olyan intézkedést megtenni, amely az Országgyűlés folyamatos működését szavatolja.
 (6) Az Országgyűlés az (1) bekezdés szerinti rendeletet hatályon kívül helyezheti. A hatályon kívül helyezett rendeletet a Kormány azonos tartalommal nem alkothatja meg újra, kivéve ha azt a körülmények jelentős változása indokolja. A Kormány az így megalkotott rendeletről és megalkotásának indokairól haladéktalanul tájékoztatja a köztársasági elnököt, az Országgyűlés elnökét és az Országgyűlés tárgykör szerint feladat- és hatáskörrel rendelkező állandó bizottságát.
 (7) Hadiállapot vagy szükségállapot Kormány általi kezdeményezését követően az Alkotmánybíróság működése nem korlátozható. A Kormány a hadiállapot vagy a szükségállapot kihirdetésének kezdeményezését követően köteles minden olyan intézkedést megtenni, amely az Alkotmánybíróság folyamatos működését szavatolja.
-(8) A hadiállapot vagy a szükségállapot Kormány általi kezdeményezését követően alkalmazandó részletes szabályokat sarkalatos törvény határozza meg.
+(8) A hadiállapot vagy a szükségállapot Kormány általi kezdeményezését követően alkalmazandó részletes szabályokat törvény határozza meg.
 
 > *55. cikk*
 
@@ -1067,12 +1096,18 @@ vonatkozó rendelkezéseit alkalmazni kell.
 &nbsp;&nbsp;&nbsp;&nbsp;o) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CXLVI. törvény, és  
 &nbsp;&nbsp;&nbsp;&nbsp;p) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CLIX. törvény.  
 27. A Magyarország Alaptörvényének tizenegyedik módosításával megállapított 35. cikk (2) bekezdését a helyi önkormányzati képviselők és polgármesterek 2019. évi általános választását követő helyi önkormányzati képviselők és polgármesterek általános választására is alkalmazni kell azzal, hogy a 35. cikk (3) bekezdésétől eltérően a hivatalban lévő képviselő-testület és polgármester megbízatása 2024. október 1-jéig tart.  
-28. A vármegyére való utalásként a megyére utaló elnevezés a 2022. december 31-én hatályos jogszabályi rendelkezések szerint az Alaptörvény tizenegyedik módosítása hatálybalépését követően is használható mindaddig, amíg az Alaptörvény szerinti megnevezés használatára való áttérés a felelős gazdálkodás elvei szerint meg nem valósítható.  
+28. A megyére való utalásként a vármegyére utaló elnevezés a 2026. szeptember 30-án hatályos jogszabályi rendelkezések szerint az Alaptörvény tizenhetedik módosítása hatálybalépését követően is használható mindaddig, amíg az Alaptörvény szerinti megnevezés használatára való áttérés a felelős gazdálkodás elvei szerint meg nem valósítható.  
 29. Az Alaptörvény tizenkettedik módosításával megállapított XXIII. cikk (3) bekezdését 2024. március 1-jétől kell alkalmazni. 2024. január 1-jétől 2024. február 29-éig a XXIII. cikk (3) bekezdésének a 2023. december 31-én hatályos szövegét kell alkalmazni.  
 30. Az Alaptörvény tizennegyedik módosítása hatálybalépését megelőzően kiírt pályázat alapján bíróvá nevezhető ki a pályázó, ha a harmincadik életévét betöltötte.  
 31. A 2025. január 1-jét megelőzően igazságügyi szervnél szolgálati jogviszonyt létesített bírósági titkár, továbbá az a bírósági titkár, aki 2025. január 1-jét megelőzően igazságügyi szervnél bírósági fogalmazói jogviszonyban állt, bíróvá nevezhető ki, ha harmincadik életévét betöltötte.  
 32. Az Alaptörvény tizennegyedik módosításával megállapított 26. cikk (2) bekezdésében meghatározott legalacsonyabb életkor követelményét a már kinevezett bírókra nem kell alkalmazni.  
 33. Az Alaptörvény tizenhatodik módosításának hatálybalépésekor működő közfeladatot ellátó közérdekű vagyonkezelő alapítvány (a továbbiakban: alapítvány) részére az állam által alapítóként, csatlakozóként vagy más jogcímen juttatott vagyon, illetve e vagyon hozama, valamint a mindezek helyébe lépett vagyon az alapítvány megszűnésekor ingyenesen az államra, mint általános jogutódra száll, továbbá megszűnik az állami tulajdonban álló vagyontárgy tekintetében a vagyonkezelői jog, illetve a közfeladathoz rendelt vagyonkezelői jog. Az alapítvány alapítói jogait az állam gyakorolja. Az alapítói jogok gyakorlója az alapítványt megszüntetheti. Az alapítvány működésének, megszüntetésének, közfeladatai és egyéb feladatai ellátásának szabályait törvény határozza meg.  
+34. Az Alaptörvény tizenhetedik módosításának hatálybalépését követő napon a hivatalban lévő köztársasági elnök megbízatása megszűnik. A hivatalban levő köztársasági elnök megbízatásának megszűnését követően az Országgyűlés az új Alkotmány hatálybalépéséig, de legfeljebb öt évig tartó időtartamra köztársasági elnököt választ a 11. cikk rendelkezései szerint.  
+35. Az Alaptörvény tizenhetedik módosításával megállapított 24. cikk (8) bekezdését – a 36. pontban foglalt kivétellel – első alkalommal az Alkotmánybíróságnak az Alaptörvény tizenhetedik módosításának hatálybalépését követően megválasztott tagjai tekintetében kell alkalmazni.  
+36. Ha az Alkotmánybíróság tagja az Alaptörvény tizenhetedik módosítása hatálybalépésének napján már betöltötte a hetvenedik életévét, megbízatása az Alaptörvény tizenhetedik módosításának hatálybalépését követő második hónap első napján megszűnik. Ha az Alkotmánybíróság – az Alaptörvény tizenhetedik módosítása hatálybalépésekor – hivatalban lévő tagja az Alaptörvény tizenhetedik módosítása hatálybalépését követően tölti be hetvenedik életévét, megbízatása a hetvenedik életévének betöltésének napján szűnik meg.  
+37. Az Alaptörvény tizenhetedik módosításával megállapított 25. cikk (6) bekezdését első alkalommal az Alaptörvény tizenhetedik módosításának hatálybalépését követően megválasztott Országos Bírósági Hivatal elnöke tekintetében kell alkalmazni.  
+38. Az Alaptörvény tizenhetedik módosításával megállapított 26. cikk (3) bekezdését első alkalommal az Alaptörvény tizenhetedik módosításának hatálybalépését követően megválasztott Kúria elnöke tekintetében kell alkalmazni.  
+39. Az Alaptörvény tizenhetedik módosításával megállapított XXIII. cikk (2) bekezdése nem érinti az Alaptörvény tizenhetedik módosításának hatálybalépésekor országgyűlési képviselői megbízatással rendelkező országgyűlési képviselők – az Alaptörvény tizenhetedik módosításának hatálybalépésekor fennálló – országgyűlési képviselői megbízatását.  
 
 
 Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.  
