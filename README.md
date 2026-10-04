@@ -144,7 +144,7 @@ Mindenki felelős önmagáért, képességei és lehetőségei szerint köteles 
 (1) Az Alaptörvény Magyarország jogrendszerének alapja.  
 (2) Az Alaptörvény és a jogszabályok mindenkire kötelezőek.  
 (3) Az Alaptörvény rendelkezéseit azok céljával, a benne foglalt Nemzeti hitvallással és történeti alkotmányunk vívmányaival összhangban kell értelmezni.  
-(4) Magyarország alkotmányos önazonosságának és keresztény kultúrájának védelme az állam minden szervének kötelessége.
+(4) Magyarország alkotmányos önazonosságának és keresztény kultúrájának védelme az állam minden szervének kötelessége. Az alkotmányos önazonosság védelme érdekében sarkalatos törvénnyel létrehozott, független szerv működik.
 
 > *S) cikk*  
 
@@ -331,7 +331,7 @@ Mindenkinek joga van törvényben meghatározottak szerint a személye, illetve 
 
 (1) Minden nagykorú magyar állampolgárnak joga van ahhoz, hogy az országgyűlési képviselők, a helyi önkormányzati képviselők és polgármesterek, valamint az európai parlamenti képviselők választásán választó és választható legyen.  
 (2) Az Európai Unió más tagállamának magyarországi lakóhellyel rendelkező minden nagykorú állampolgárának joga van ahhoz, hogy a helyi önkormányzati képviselők és polgármesterek, valamint az európai parlamenti képviselők választásán választó és választható legyen.  
-(3) Magyarországon menekültként, bevándoroltként vagy letelepedettként elismert minden nagykorú személynek joga van ahhoz, hogy a helyi önkormányzati képviselők és polgármesterek választásán választó legyen.  
+(3) Magyarországon menekültként elismert vagy huzamos tartózkodási jogosultsággal rendelkező minden nagykorú személynek joga van ahhoz, hogy a helyi önkormányzati képviselők és polgármesterek választásán választó legyen.  
 (4) Sarkalatos törvény a választójogot vagy annak teljességét magyarországi lakóhelyhez, a választhatóságot további feltételekhez kötheti.  
 (5) A helyi önkormányzati képviselők és polgármesterek választásán a választópolgár lakóhelyén vagy bejelentett tartózkodási helyén választhat. A választópolgár a szavazás jogát lakóhelyén vagy bejelentett tartózkodási helyén gyakorolhatja.  
 (6) Nem rendelkezik választójoggal az, akit bűncselekmény elkövetése vagy belátási képességének korlátozottsága miatt a bíróság a választójogból kizárt. Nem választható az Európai Unió más tagállamának magyarországi lakóhellyel rendelkező állampolgára, ha az állampolgársága szerinti állam jogszabálya, bírósági vagy hatósági döntése alapján hazájában kizárták e jog gyakorlásából.  
@@ -349,7 +349,8 @@ Mindenkinek joga van ahhoz, hogy egyedül vagy másokkal együtt, írásban kér
 
 > *XXVI. cikk*  
 
-Az állam – a működésének hatékonysága, a közszolgáltatások színvonalának emelése, a közügyek jobb átláthatósága és az esélyegyenlőség előmozdítása érdekében – törekszik az új műszaki megoldásoknak és a tudomány eredményeinek az alkalmazására.  
+(1) Az állam – a működésének hatékonysága, a közszolgáltatások színvonalának emelése, a közügyek jobb átláthatósága és az esélyegyenlőség előmozdítása érdekében – törekszik az új műszaki megoldásoknak és a tudomány eredményeinek az alkalmazására.  
+(2) Magyarországon – az (1) bekezdésben meghatározott célok érvényesítése érdekében – az ügyek digitális intézése elsőbbséget élvez, amelyhez az állam törvényben meghatározottak szerint mindenki számára egy egyedi digitális azonosítót biztosít. Az állam – a Kormány rendeletében meghatározott módon és körben – kezeli azokat az adatokat, amelyek az ügyek digitális intézéséhez szükségesek.  
 
 > *XXVII. cikk*  
 
@@ -379,7 +380,7 @@ Az állam – a működésének hatékonysága, a közszolgáltatások színvona
 
 > *XXXI. cikk*  
 
-(1) Minden magyar állampolgár köteles a haza védelmére.  
+(1) A haza védelme nemzeti ügy. Minden magyar állampolgár köteles a haza védelmére.  
 (2) Magyarország önkéntes honvédelmi tartalékos rendszert tart fenn.  
 (3) Hadiállapot idején a magyarországi lakóhellyel rendelkező, nagykorú, magyar állampolgárságú férfiak katonai szolgálatot teljesítenek. Ha a hadkötelezett lelkiismereti meggyőződésével a fegyveres szolgálat teljesítése összeegyeztethetetlen, fegyver nélküli szolgálatot teljesít. A katonai szolgálat teljesítésének formáit és részletes szabályait sarkalatos törvény határozza meg.
 (4) Magyarországi lakóhellyel rendelkező, nagykorú magyar állampolgárok számára hadiállapot idejére – sarkalatos törvényben meghatározottak szerint – honvédelmi munkakötelezettség írható elő.  
@@ -876,6 +877,9 @@ A közteherviselés és a nyugdíjrendszer alapvető szabályait a közös szük
 (3) A Magyar Honvédség működését a Kormány irányítja.  
 (4) A Magyar Honvédség hivatásos állományú tagjai nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.  
 (5) A Magyar Honvédség szervezetére, feladataira, irányítására és vezetésére, működésére vonatkozó részletes szabályokat sarkalatos törvény határozza meg.  
+(6) A Magyar Honvédség hivatásos állományú tagjai jogállásáról a Kormány rendeletet alkot, amelyben a feladat- és hatáskörrel rendelkező miniszter részére felhatalmazást adhat a részletes szabályok megállapítására.  
+(7) A Magyar Honvédség hivatásos állományú tagjainak a jogállásukkal összefüggő alapvető jogaira és kötelezettségeire vonatkozó szabályok a (6) bekezdés szerinti kormányrendeletben is megállapíthatóak.  
+(8) A Magyar Honvédség hivatásos állományú tagja jogállásával összefüggésben szakszervezet nem alakulhat és tevékenykedhet. A Magyar Honvédség hivatásos állományú tagja jogállásával összefüggésben működő más érdek-képviseleti szervezet a Kormány rendeletében meghatározott sajátos szabályok szerint alakulhat és tevékenykedhet.  
 
 
 **A rendőrség és a nemzetbiztonsági szolgálatok**  
@@ -1060,6 +1064,7 @@ vonatkozó rendelkezéseit alkalmazni kell.
 &nbsp;&nbsp;&nbsp;&nbsp;p) a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény módosításáról szóló 2011. évi CLIX. törvény.  
 27. A Magyarország Alaptörvényének tizenegyedik módosításával megállapított 35. cikk (2) bekezdését a helyi önkormányzati képviselők és polgármesterek 2019. évi általános választását követő helyi önkormányzati képviselők és polgármesterek általános választására is alkalmazni kell azzal, hogy a 35. cikk (3) bekezdésétől eltérően a hivatalban lévő képviselő-testület és polgármester megbízatása 2024. október 1-jéig tart.  
 28. A vármegyére való utalásként a megyére utaló elnevezés a 2022. december 31-én hatályos jogszabályi rendelkezések szerint az Alaptörvény tizenegyedik módosítása hatálybalépését követően is használható mindaddig, amíg az Alaptörvény szerinti megnevezés használatára való áttérés a felelős gazdálkodás elvei szerint meg nem valósítható.  
+29. Az Alaptörvény tizenkettedik módosításával megállapított XXIII. cikk (3) bekezdését 2024. március 1-jétől kell alkalmazni. 2024. január 1-jétől 2024. február 29-éig a XXIII. cikk (3) bekezdésének a 2023. december 31-én hatályos szövegét kell alkalmazni.  
 
 
 Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.  
