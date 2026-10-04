@@ -708,7 +708,7 @@ kezdeményezheti.
 > *26. cikk*  
 
 (1) A bírák függetlenek, és csak a törvénynek vannak alárendelve, ítélkezési tevékenységükben nem utasíthatóak. A bírákat tisztségükből csak sarkalatos törvényben meghatározott okból és eljárás keretében lehet elmozdítani. A bírák nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.  
-(2) A hivatásos bírákat - sarkalatos törvényben meghatározottak szerint - a köztársasági elnök nevezi ki. Bíróvá az nevezhető ki, aki a harmincadik életévét betöltötte. A Kúria elnöke és az Országos Bírósági Hivatal elnöke kivételével a bíró szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.
+(2) A hivatásos bírákat - sarkalatos törvényben meghatározottak szerint - a köztársasági elnök nevezi ki. Bíróvá az nevezhető ki, aki a harmincötödik életévét betöltötte. A Kúria elnöke és az Országos Bírósági Hivatal elnöke kivételével a bíró szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig, sarkalatos törvényben meghatározott esetekben a bíró hetvenedik életévének betöltéséig állhat fenn.
 (3) A Kúria elnökét a bírák közül kilenc évre a köztársasági elnök javaslatára az Országgyűlés választja. A Kúria elnökének megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.
 
 > *27. cikk*  
@@ -733,7 +733,7 @@ A bíróságok a jogalkalmazás során a jogszabályok szövegét elsősorban az
 &nbsp;&nbsp;&nbsp;&nbsp;c) felügyeletet gyakorol a büntetés-végrehajtás törvényessége felett;  
 &nbsp;&nbsp;&nbsp;&nbsp;d) a közérdek védelmezőjeként az Alaptörvény vagy törvény által meghatározott további feladat- és hatásköröket gyakorol.  
 (3) Az ügyészi szervezetet a legfőbb ügyész vezeti és irányítja, kinevezi az ügyészeket. A legfőbb ügyész kivételével az ügyész szolgálati jogviszonya az általános öregségi nyugdíjkorhatár betöltéséig állhat fenn.  
-(4) A legfőbb ügyészt az ügyészek közül a köztársasági elnök javaslatára az Országgyűlés választja kilenc évre. A legfőbb ügyész megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.  
+(4) A legfőbb ügyészt a köztársasági elnök javaslatára az Országgyűlés választja kilenc évre. A legfőbb ügyész megválasztásához az országgyűlési képviselők kétharmadának szavazata szükséges.  
 (5) A legfőbb ügyész évente beszámol tevékenységéről az Országgyűlésnek.  
 (6) Az ügyészek nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.  
 (7) Az ügyészség szervezetének és működésének, a legfőbb ügyész és az ügyészek jogállásának részletes szabályait, valamint javadalmazásukat sarkalatos törvény határozza meg.  
@@ -1018,8 +1018,7 @@ megbízatása tekintetében is alkalmazni kell.
 13. Az Alaptörvény 4. cikk (3) bekezdés f) pontja szerinti határidő számítása az Alaptörvény hatálybalépésével kezdődik.  
 14. (1) A Legfelsőbb Bíróság, az Országos Igazságszolgáltatási Tanács és elnöke jogutódja az ítélkezési tevékenység tekintetében a Kúria, a bíróságok igazgatása tekintetében – sarkalatos törvényben meghatározott kivétellel – az Országos Bírósági Hivatal elnöke.  
 (2) A Legfelsőbb Bíróság elnöke, az Országos Igazságszolgáltatási Tanács elnöke és tagjai megbízatása az Alaptörvény hatálybalépésével megszűnik.  
-15. (1) Az Alaptörvény 26. cikk (2) bekezdésben meghatározott legalacsonyabb életkor követelményét – a (2) bekezdésben foglalt kivétellel – az Alaptörvény hatálybalépését követően kiírt pályázat alapján kinevezett bíróra kell alkalmazni.  
-(2) Ha a kinevezésre törvényben meghatározottak szerint pályázat kiírása nélkül kerül sor, a legalacsonyabb életkor követelményét az Alaptörvény hatálybalépését követően kinevezett bíróra kell alkalmazni.  
+15.  
 16. Az állampolgári jogok országgyűlési biztosa tisztségének elnevezése az Alaptörvény hatálybalépésétől alapvető jogok biztosa. Az állampolgári jogok országgyűlési biztosának, a nemzeti és etnikai jogok országgyűlési biztosának és a jövő nemzedékek országgyűlési biztosának jogutódja az alapvető jogok biztosa. A hivatalban lévő nemzeti és etnikai kisebbségi jogok országgyűlési biztosa az Alaptörvény hatálybalépésétől az alapvető jogok biztosának a Magyarországon élő nemzetiségek jogainak védelmét ellátó helyettese; a hivatalban lévő jövő nemzedékek országgyűlési biztosa az Alaptörvény hatálybalépésétől az alapvető jogok biztosának a jövő nemzedékek érdekeinek védelmét ellátó helyettese; megbízatásuk megszűnik az alapvető jogok biztosa megbízatásának megszűnésével.  
 17. A hivatalban lévő adatvédelmi biztos megbízatása az Alaptörvény hatálybalépésével megszűnik.  
 18. A megyei közgyűlés elnöke tisztségének elnevezése az Alaptörvény alkalmazásában, annak hatálybalépésétől a megyei képviselő-testület elnöke. Az Alaptörvény szerinti megyei képviselő-testület a megyei közgyűlés jogutódja.  
@@ -1065,6 +1064,9 @@ vonatkozó rendelkezéseit alkalmazni kell.
 27. A Magyarország Alaptörvényének tizenegyedik módosításával megállapított 35. cikk (2) bekezdését a helyi önkormányzati képviselők és polgármesterek 2019. évi általános választását követő helyi önkormányzati képviselők és polgármesterek általános választására is alkalmazni kell azzal, hogy a 35. cikk (3) bekezdésétől eltérően a hivatalban lévő képviselő-testület és polgármester megbízatása 2024. október 1-jéig tart.  
 28. A vármegyére való utalásként a megyére utaló elnevezés a 2022. december 31-én hatályos jogszabályi rendelkezések szerint az Alaptörvény tizenegyedik módosítása hatálybalépését követően is használható mindaddig, amíg az Alaptörvény szerinti megnevezés használatára való áttérés a felelős gazdálkodás elvei szerint meg nem valósítható.  
 29. Az Alaptörvény tizenkettedik módosításával megállapított XXIII. cikk (3) bekezdését 2024. március 1-jétől kell alkalmazni. 2024. január 1-jétől 2024. február 29-éig a XXIII. cikk (3) bekezdésének a 2023. december 31-én hatályos szövegét kell alkalmazni.  
+30. Az Alaptörvény tizennegyedik módosítása hatálybalépését megelőzően kiírt pályázat alapján bíróvá nevezhető ki a pályázó, ha a harmincadik életévét betöltötte.  
+31. A 2025. január 1-jét megelőzően igazságügyi szervnél szolgálati jogviszonyt létesített bírósági titkár, továbbá az a bírósági titkár, aki 2025. január 1-jét megelőzően igazságügyi szervnél bírósági fogalmazói jogviszonyban állt, bíróvá nevezhető ki, ha harmincadik életévét betöltötte.  
+32. Az Alaptörvény tizennegyedik módosításával megállapított 26. cikk (2) bekezdésében meghatározott legalacsonyabb életkor követelményét a már kinevezett bírókra nem kell alkalmazni.  
 
 
 Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.  
